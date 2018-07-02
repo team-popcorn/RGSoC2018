@@ -5,7 +5,7 @@
 - **Communication** *Riot* - #TeamPopcorn *Email* - jessica0greene@gmail.com, 1aratirana@gmail.com 
 - **Supervisor:** Neta Gonen
 - **Coaches:** [Camila](https://github.com/camilasan), [Markus](https://github.com/axlwaii) & [Kaja](https://github.com/kajatiger)
-- **Mentor:** [Jan](https://github.com/jancborchardt)
+- **Mentor:** [Jan](https://github.com/jancborchardt), [Jona](https://github.com/jonatoni)
 - **Calendar** https://sleepypioneer.portknox.net/apps/calendar/
 - **Schedule:** 
   * Mondays - rotation (*see notes below*)
