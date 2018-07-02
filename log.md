@@ -56,9 +56,20 @@
 <a name="day1"></a>
 ### Day 1: January 1, 2018 
 
-**Today's Progress**:
-**Thoughts:** 
-**Link to work:** 
+**Today's Progress**: 
+After a warm welcome from coaching company ABSOLVENTA and coach Kaja, we did the following tasks:
+
+- set up our new working environments
+- starting installing the Nextcloud development environment on our new machines
+- set up communication channels
+- set up a team calendar
+- meeting with project lead for Nextcloud Contacts App to discuss our involvement
+- joined the Kick off event call
+
+We also had a visit from one of our coaches Markus at our coaching company.
+
+**Thoughts:** A very exciting start to the SoC!
+
 ***
 [Back to Top](#top) 
 
