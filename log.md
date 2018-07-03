@@ -5,7 +5,7 @@
 
 | Day                 | Focus                                   | Day                 | Focus                                         |
 |:-------------------:|:----------------------------------------|:-------------------:|:----------------------------------------------|
-| [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      | |
+| [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      |Awesome Blue Chocolate Ice-cream Popcorn|
 | [Day 3](#day3)      | | [Day 4](#day4)      |  |
 | [Day 5](#day5)      | | [Day 6](#day6)      |  |
 | [Day 7](#day7)      | | [Day 8](#day8)      |  |
@@ -54,7 +54,7 @@
 | [Day 100](#day100)  | Mission complete! (*thoughts & future plans)        
 
 <a name="day1"></a>
-### Day 1: January 1, 2018 
+### Day 1: July 2, 2018 
 
 **Today's Progress**: 
 After a warm welcome from coaching company ABSOLVENTA and coach Kaja, we did the following tasks:
@@ -74,13 +74,22 @@ We also had a visit from one of our coaches Markus at our coaching company.
 [Back to Top](#top) 
 
 <a name="day2"></a>
-### Day 2: January 2, 2018 
+### Day 2: July 3, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts**: 
+- completed the setup of development environment
+- looked at Vue 
+- made notes for our blog post
+- went over with our coach Lora our plan, set up , and involvement
+- lined up our first issues to tackle and added them to our github project
 
-**Link(s) to work**: 
+**Thoughts:**
+
+We are starting to feel more settled in to our routine  and looking forward to getting fully immersed in coding!
+
+**Link:**
+https://github.com/orgs/nextcloud/projects/11
 ***
 [Back to Top](#top) 
 
