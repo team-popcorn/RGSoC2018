@@ -1,4 +1,4 @@
-*****Installation Guide for Nextcloud*****
+****Installation Guide for Nextcloud & setting up the contacts app****
 
 ***On Mac***
 
@@ -35,24 +35,12 @@ https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-s
 git clone git@github.com:nextcloud/contacts.git
 
 **Building the app**
+Go into the Contacts folder.
 The app can be built by using the provided Makefile by running:
-make
-This requires the following things to be present:
-- make
-- which
-- tar: for building the archive
-- curl: used if phpunit and composer are not installed to fetch them from the web
-- npm: for building and testing everything JS
+*make*
 
-**Running tests**
-You can use the provided Makefile to run all tests by using:
-make test
-This will run the PHP unit and integration tests and if a package.json is present in the js/ folder will execute npm run test
-Of course you can also install PHPUnit and use the configurations directly:
-phpunit -c phpunit.xml
-or:
-phpunit -c phpunit.integration.xml
-for integration tests
+**Enable the app**
+Click settings gear in upper right corner of Nextcloud and go to Apps, scroll down to contacts and click enable.
 
 ---------------------------------------------------------------------------------------------------------------------------
 
