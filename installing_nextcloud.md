@@ -1,3 +1,76 @@
+****Installation Guide for Nextcloud****
+
+**Install Node**
+https://nodejs.org/en/
+
+**Install homebrew**
+/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+brew install --with-openssl curl
+brew install --with-homebrew-curl --with-apache php71
+
+**Download Nextcloud**
+https://nextcloud.com/install/#
+
+**Go to a File Manager and unzip the file nextcloud-13.0.0.zip.**
+
+**Go back to the terminal and go to the folder where you just unzipped the file to:**
+$ cd ~/Downloads/nextcloud
+
+**run server**
+$ php -S localhost:3000
+
+Now you can visit the browser at localhost:3000 and fill up the form with an admin username and password (pick one as you like, usually for develpment I always use admin/admin).
+About the storage, pick the sqlite option because at this point, it is the easiest to work with. Now just click "Finish setup". If everything went smooth now you should have Nextcloud up and running!
+
+
+**set up ssh key**
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+**add ssh key to GitHub**
+https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
+**clone contacts app into nextcloud/app folder**
+git clone git@github.com:nextcloud/contacts.git
+
+**Building the app**
+The app can be built by using the provided Makefile by running:
+make
+This requires the following things to be present:
+- make
+- which
+- tar: for building the archive
+- curl: used if phpunit and composer are not installed to fetch them from the web
+- npm: for building and testing everything JS
+
+**Running tests**
+You can use the provided Makefile to run all tests by using:
+make test
+This will run the PHP unit and integration tests and if a package.json is present in the js/ folder will execute npm run test
+Of course you can also install PHPUnit and use the configurations directly:
+phpunit -c phpunit.xml
+or:
+phpunit -c phpunit.integration.xml
+for integration tests
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 More notes are available here: https://cloud.nextcloud.com/s/G4nxXSaRj6RJ9Dn
 
 To put things into perspective and to organize it, this is how far
