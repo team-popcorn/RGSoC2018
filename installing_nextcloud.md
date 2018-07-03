@@ -31,7 +31,7 @@ https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-s
 **add ssh key to GitHub**
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
 
-**clone contacts app into nextcloud/app folder**
+**clone contacts app into nextcloud/apps folder**
 git clone git@github.com:nextcloud/contacts.git
 
 **Building the app**
