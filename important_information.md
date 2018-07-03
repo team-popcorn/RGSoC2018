@@ -7,6 +7,7 @@
 - **Coaches:** [Camila](https://github.com/camilasan), [Markus](https://github.com/axlwaii) & [Kaja](https://github.com/kajatiger)
 - **Mentor:** [Jan](https://github.com/jancborchardt)
 - **Calendar** https://sleepypioneer.portknox.net/apps/calendar/
+- **Project** https://github.com/orgs/nextcloud/projects/11
 - **Schedule:** 
   * Mondays - rotation (*see notes below*)
   * Tuesday - Lora 
