@@ -1,4 +1,6 @@
-****Installation Guide for Nextcloud****
+*****Installation Guide for Nextcloud*****
+
+***On Mac***
 
 **Install Node**
 https://nodejs.org/en/
@@ -52,23 +54,7 @@ or:
 phpunit -c phpunit.integration.xml
 for integration tests
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+---------------------------------------------------------------------------------------------------------------------------
 
 
 More notes are available here: https://cloud.nextcloud.com/s/G4nxXSaRj6RJ9Dn
