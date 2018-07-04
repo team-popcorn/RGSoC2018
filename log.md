@@ -6,7 +6,7 @@
 | Day                 | Focus                                   | Day                 | Focus                                         |
 |:-------------------:|:----------------------------------------|:-------------------:|:----------------------------------------------|
 | [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      |Awesome Blue Chocolate Ice-cream Popcorn|
-| [Day 3](#day3)      | | [Day 4](#day4)      |  |
+| [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |  |
 | [Day 5](#day5)      | | [Day 6](#day6)      |  |
 | [Day 7](#day7)      | | [Day 8](#day8)      |  |
 | [Day 9](#day9)      | | [Day 10](#day10)    |  |
@@ -94,14 +94,18 @@ https://github.com/orgs/nextcloud/projects/11
 [Back to Top](#top) 
 
 <a name="day3"></a>
-### Day 3: January 3, 2018 
+### Day 3: July 4, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts**. 
+- started working through various Vue tutorials 
+- made notes for our blog post
+- went over with our coach Markus our plan, set up , and involvement as well as some git basics
+- had our first weekly meeting with our supervisor
 
+**Thoughts:**
 
-**Link(s) to work**:  
+Feeling a bit overwhelmed with balancing administrative tasks and coding as well as learning a whole new framework (Vue).  
 ***
 [Back to Top](#top) 
 
