@@ -6,7 +6,7 @@
 | Day                 | Focus                                   | Day                 | Focus                                         |
 |:-------------------:|:----------------------------------------|:-------------------:|:----------------------------------------------|
 | [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      |Awesome Blue Chocolate Ice-cream Popcorn|
-| [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |  |
+| [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |Sour Purple Banana Popcorn|
 | [Day 5](#day5)      | | [Day 6](#day6)      |  |
 | [Day 7](#day7)      | | [Day 8](#day8)      |  |
 | [Day 9](#day9)      | | [Day 10](#day10)    |  |
@@ -110,14 +110,22 @@ Feeling a bit overwhelmed with balancing administrative tasks and coding as well
 [Back to Top](#top) 
 
 <a name="day4"></a>
-### Day 4: January 4, 2018
+### Day 4: July 5, 2018
 
-**Today's Progress**:
+**Today's Progress:**
 
-**Thoughts** 
+- Ru Paul quotes app built with Vue
+- more for the blog post...
+- tweaking our work environment (particularly figuring out how to work with new keyboards)
+- continuing with Vue tutorials
 
+**Thoughts:**
 
-**Link(s) to work**: 
+Our coaches were remote today but it was great spending quality time with each other :)
+
+**Links:**
+
+https://github.com/team-popcorn/RuPaul-Quote-App 
 ***
 [Back to Top](#top) 
 
