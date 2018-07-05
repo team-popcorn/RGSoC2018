@@ -10,7 +10,7 @@
 - **Project kanban** https://github.com/orgs/nextcloud/projects/11
 - **Schedule:** 
   * Mondays - rotation (*see notes below*)
-  * Tuesday - Lora 
+  * Tuesday - Lora (17:30 Weekly meeting with Neta)
   * Wednesday - Markus
   * Thursday - Kaja & Victor 
   * Friday - Camila
