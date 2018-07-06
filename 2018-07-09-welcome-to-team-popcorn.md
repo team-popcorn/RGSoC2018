@@ -38,7 +38,7 @@ Kaja & Victor (Absolventa)
 At our coaching company we have two coaches. Kaja is a Ruby on Rails developer and RGSoC alumni who also had Absolventa as her coaching company. Victor is from Spain and he joined Absolventa as a web developer earlier this year.
 
 **[Markus](https://github.com/axlwaii)**
-Markus was a RGSoC coach last year for Kaja as he also worked at Absolventa. He now works at 
+Markus was a RGSoC coach last year for Kaja as he also used to work at Absolventa. He now works at 
 
 **[Lora](https://github.com/lorabv)**
 
