@@ -12,7 +12,7 @@ categories: student-posts
 **Team Popcorn**
 
 !["Our welcome by Absolventa"](http://url/to/img.png)
-The warm welcome we recieved from our coaching company [Absolventa](https://www.absolventa.de/)
+The warm welcome we received from our coaching company [Absolventa](https://www.absolventa.de/)
 *Photo credit: Jessica*
 
 We are Team Popcorn based in Berlin, Germany. We met through the Women Techmakers community where we were both looking for opportunities to learn programming. Though our backgrounds are different and we don’t always get each other’s jokes, we share a passion for programming. Having both gotten into tech a little later in life and collected many different experiences along the way, we knew RGSoC would be a blast together!
