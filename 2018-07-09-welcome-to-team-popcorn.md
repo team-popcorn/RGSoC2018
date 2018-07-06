@@ -44,7 +44,6 @@ Markus was a RGSoC coach last year for Kaja as he also used to work at Absolvent
 "Lora Vardarova is a Software Engineer at Zalando. Passionate About Front-End Development, User Experience, and Agile Software Development." ([WTMB Meetup](https://www.meetup.com/Women-Techmakers-Berlin/events/246814497/))
 
 **[Camila](https://github.com/camilasan)**
-
 "Camila is from Brazil and has worked as front-end developer, with C#, Java and even Delphi. She got into open source doing C++/Qt development in the KDE community. After moving to Germany she worked with PHP, Ruby on Rails, AngluarJS, Go and Drupal 7. She's now a desktop client developer at Nextcloud but just might do other things than C++ sometimes." ([Nextcloud website](https://nextcloud.com/))
 
 We also are happy to have [Jan](https://github.com/jancborchardt) and [Jona](https://github.com/jonatoni) as our mentors and Neta as our supervisor.
