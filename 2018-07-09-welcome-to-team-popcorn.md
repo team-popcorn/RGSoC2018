@@ -26,7 +26,7 @@ As it turns out, this would be a fateful evening for our team because Camila did
 
 **[Arati]()**
 
-Some of the best days I had in 2017 were the ones when I got to program from morning to evening. I found my way into programming quite by accident. I did an online Ruby tutorial for fun and was hooked. Next, I scoured the Meetup pages and within just days of enrolling in the Women Techmaker’s JavaScript Crash Course here in Berlin, I knew I wanted to do this full time. Through every bug and even the time my code broke just minutes before I was due to present my graduation project, I have been excited by programming. I had heard it was possible for work to feel like play, but I had never actually experienced it myself. And this is why 2018 has been a monumental year for me. I am delighted to say that I am now working as a professional web developer. 
+Some of the best days I had in 2017 were the ones when I got to program from morning to evening. I found my way into programming quite by accident. I did an online Ruby tutorial for fun and was hooked. Next, I scoured the Meetup pages and within days of enrolling in the Women Techmaker’s JavaScript Crash Course here in Berlin, I knew I wanted to do this full time. Through every bug and even the time my code broke just minutes before I was due to present my graduation project, I have been excited by programming. I had heard it was possible for work to feel like play, but I had never actually experienced it myself. And this is why 2018 has been a monumental year for me. I am delighted to say that I am now working as a professional web developer. 
 
 **[Jessica]() *[(@sleepypioneer)](https://twitter.com/sleepypioneer)***
 
