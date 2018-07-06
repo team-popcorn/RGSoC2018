@@ -61,7 +61,7 @@ Since reaching out to Camila and Jan at the start of our application process for
 
 **Roadmap for RGSoC**
 
-We will be working on the contacts app, an address book application that links to the calendar and mail apps. Currently written in Angular.js, it is being migrated to Vue.js over the course of the next three months. We will be involved in this process which is a fantastic opportunity to learn about Vue and how a migration of this scale is achieved.
+We will be working on the contacts app, an address book application that links to the calendar and mail apps. Currently written in Angular.js, it is being migrated to Vue.js over the course of the next three months. We will be involved in this process which is a fantastic opportunity to learn Vue and to directly experience how a migration of this scale is achieved.
 After the app has been migrated, we will begin to work on enhancements and have been encouraged to come up with our own :)
 
 You can follow our progress here, on the [updates page](https://teams.railsgirlssummerofcode.org/) and also on our [Twitter](https://twitter.com/TeamPopcornBer)!
