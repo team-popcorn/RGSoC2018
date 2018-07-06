@@ -7,7 +7,7 @@
 |:-------------------:|:----------------------------------------|:-------------------:|:----------------------------------------------|
 | [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      |Awesome Blue Chocolate Ice-cream Popcorn|
 | [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |Sour Purple Banana Popcorn|
-| [Day 5](#day5)      | | [Day 6](#day6)      |  |
+| [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Day 6](#day6)      |  |
 | [Day 7](#day7)      | | [Day 8](#day8)      |  |
 | [Day 9](#day9)      | | [Day 10](#day10)    |  |
 | [Day 11](#day11)    | | [Day 12](#day12)    |  |
@@ -130,13 +130,23 @@ https://github.com/team-popcorn/RuPaul-Quote-App
 [Back to Top](#top) 
 
 <a name="day5"></a>
-### Day 5: January 5, 2018 
+### Day 5: July 6, 2018 
 
-**Today's Progress**:
+**Today's Progress:**
 
-**Thoughts**
+- formatting of the blog post 
+- final edits of the blog post
+- went over with our coach Camila our plan, set up , and involvement
+- continuing with Vue tutorials
+- fixing the fabulous RuPaul app picture
 
-**Link(s) to work**:  
+**Thoughts:**
+
+Great week, hard to believe it's already been five days and looking forward to doing it again on Monday!
+
+**Links:**
+
+https://www.vuemastery.com/courses/intro-to-vue-js/computed-properties 
 ***
 [Back to Top](#top)  
 
