@@ -41,7 +41,7 @@ At our coaching company we have two coaches. Kaja is a Ruby on Rails developer a
 Markus was a RGSoC coach last year for Kaja as he also used to work at Absolventa. He now works at 
 
 **[Lora](https://github.com/lorabv)**
-"Lora Vardarova is a Software Engineer at Zalando. Passionate About Front-End Development, User Experience, and Agile Software Development." (WTMB Meetup (https://www.meetup.com/Women-Techmakers-Berlin/events/246814497/))
+"Lora Vardarova is a Software Engineer at Zalando. Passionate About Front-End Development, User Experience, and Agile Software Development." ([WTMB Meetup] (https://www.meetup.com/Women-Techmakers-Berlin/events/246814497/))
 
 **[Camila](https://github.com/camilasan)**
 
