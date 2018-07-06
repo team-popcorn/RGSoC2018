@@ -1,3 +1,14 @@
+---
+title: Meet Team Popcorn
+layout: post
+created_at: Tue July 23 2013
+permalink: blog/2018-07-09-welcome-to-team-popcorn.md
+current: blog
+author: Arati and Jessica
+twitter: TeamPopcornBer
+categories: student-posts
+---
+
 **Team Popcorn**
 
 !["Our welcome by Absolventa"](http://url/to/img.png)
