@@ -19,7 +19,7 @@ We are Team Popcorn based in Berlin, Germany. We met through the Women Techmaker
 
 As soon as we decided to apply for the program, we had to start hunting for coaches and a project. We were particularly keen to find other women to mentor us. After looking through the Nextcloud website we found Camila’s profile. We reached out and were delighted when she invited us to a Nextcloud meetup happening that very evening.
 
-As it turns out, this would be a fateful evening for our team because Camila didn’t come alone to the meetup. With her was a small black dog with a big personality. An adorable rescue dog, Popcorn was our mascot during the sometimes frustrating process of setting up our development environments and we had no other choice than to honour her with our team name!
+As it turns out, this would be a fateful evening for our team because Camila didn’t come alone to the meetup. With her was a little black dog with a big personality. An adorable rescue dog, Popcorn was our mascot during the sometimes frustrating process of setting up our development environments and we had no other choice than to honour her with our team name!
 
 !["Popcorn, our mascot"](http://url/to/img.png)
 *Photo credit: Camila*
