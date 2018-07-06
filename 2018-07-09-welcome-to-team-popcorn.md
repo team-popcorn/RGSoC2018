@@ -34,7 +34,6 @@ Originally from the UK, I moved to Berlin, Germany in 2010 to live with my partn
 I have learned a range of languages including Python, Go, JavaScript and PHP. In 2018, I hope to find my first job in tech and RGSoC is proving to be an excellent start to this journey!
 
 **[Kaja](https://github.com/kajatiger) & [Victor](https://github.com/elalemanyo)**
-Kaja & Victor (Absolventa)
 At our coaching company we have two coaches. Kaja is a Ruby on Rails developer and RGSoC alumni who also had Absolventa as her coaching company. Victor is from Spain and he joined Absolventa as a web developer earlier this year.
 
 **[Markus](https://github.com/axlwaii)**
