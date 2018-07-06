@@ -1,7 +1,7 @@
 ---
 title: Meet Team Popcorn
 layout: post
-created_at: Tue July 23 2013
+created_at: Mon July 09 2018
 permalink: blog/2018-07-09-welcome-to-team-popcorn.md
 current: blog
 author: Arati and Jessica
@@ -11,9 +11,8 @@ categories: student-posts
 
 **Team Popcorn**
 
-!["Our welcome by Absolventa"](http://url/to/img.png)
-The warm welcome we received from our coaching company [Absolventa](https://www.absolventa.de/)
-*Photo credit: Jessica*
+![The warm welcome we recieved from our coaching company [Absolventa](/img/blog/2018/welcome-teampopcorn.jpg)
+<div class="image-credits"><em>Photo credit: Jessica</em></div>
 
 We are Team Popcorn based in Berlin, Germany. We met through the Women Techmakers community where we were both looking for opportunities to learn programming. Though our backgrounds are different and we don’t always get each other’s jokes, we share a passion for programming. Having both gotten into tech a little later in life and collected many different experiences along the way, we knew RGSoC would be a blast together!
 
@@ -21,8 +20,8 @@ As soon as we decided to apply for the program, we had to start hunting for coac
 
 As it turns out, this would be a fateful evening for our team because Camila didn’t come alone to the meetup. With her was a little black dog with a big personality. An adorable rescue dog, Popcorn was our mascot during the sometimes frustrating process of setting up our development environments and we had no other choice than to honour her with our team name!
 
-!["Popcorn, our mascot"](http://url/to/img.png)
-*Photo credit: Camila*
+![Popcorn, our mascot](/img/blog/2018/popcorn-mascot-teampopcorn.jpg)
++<div class="image-credits"><em>Photo credit: Camila</em></div>
 
 **[Arati]()**
 
@@ -37,7 +36,7 @@ I have learned a range of languages including Python, Go, JavaScript and PHP. In
 At our coaching company we have two coaches. Kaja is a Ruby on Rails developer and RGSoC alumni who also had Absolventa as her coaching company. Victor is from Spain and he joined Absolventa as a web developer earlier this year.
 
 **[Markus](https://github.com/axlwaii)**
-Markus was a RGSoC coach last year for Kaja as he also used to work at Absolventa. He now works at 
+Markus was a RGSoC coach last year for Kaja as he also used to work at Absolventa. He now works at a agency in Berlin working with JavaScript and Ruby.
 
 **[Lora](https://github.com/lorabv)**
 "Lora Vardarova is a Software Engineer at Zalando. Passionate About Front-End Development, User Experience, and Agile Software Development." ([WTMB Meetup](https://www.meetup.com/Women-Techmakers-Berlin/events/246814497/))
@@ -56,8 +55,8 @@ We chose this project because we both felt it was important to work on a larger 
 
 Since reaching out to Camila and Jan at the start of our application process for RGSoC we have been overwhelmed by the community’s support. We were even invited to join them in Stuttgart for their hackweek!
 
-!["Nextcloud Hackweek"](http://url/to/img.png)
-*Photo credit: Nextcloud*
+![Nextcloud Hackweek](/img/blog/2018/nextcloud-hackweek-teampopcorn.jpeg)
+<div class="image-credits"><em>Photo credit: Nextcloud</em></div>
 
 **Roadmap for RGSoC**
 
