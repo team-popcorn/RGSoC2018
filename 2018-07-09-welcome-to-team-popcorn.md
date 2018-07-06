@@ -52,7 +52,7 @@ We also are happy to have [Jan](https://github.com/jancborchardt) and [Jona](htt
 [Nextcloud’s website](https://nextcloud.com/) says it best. “Nextcloud offers industry-leading on-premises file sync and online collaboration technology. Our expertise is in combining the convenience and ease of use of consumer-grade solutions like Dropbox and Google Drive with the security, privacy and control business needs.
 Our self-hosted solutions ensure you know where data is, who has access, and that even meta-data does not leak.”
 
-We chose this project because we both felt it was important to work on a larger project and familiarise ourselves with the architecture, communication style and organisation this would required.  We also liked that within the project, there are separate apps which we could focus on. Additionally, we felt strongly about working on a project that has a local community, where we would be able to connect with other members in person.
+We chose this project because we both felt it was important to work on a larger project and familiarise ourselves with the architecture, communication style and organisation this would required.  We also liked that within the project, there are separate apps which we could focus on. Additionally, we felt strongly about working on a project that has a local community and which would enable us to connect with other members in person.
 
 Since reaching out to Camila and Jan at the start of our application process for RGSoC we have been overwhelmed by the community’s support. We were even invited to join them in Stuttgart for their hackweek!
 
