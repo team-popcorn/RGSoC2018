@@ -7,8 +7,8 @@
 |:-------------------:|:----------------------------------------|:-------------------:|:----------------------------------------------|
 | [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      |Awesome Blue Chocolate Ice-cream Popcorn|
 | [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |Sour Purple Banana Popcorn|
-| [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Day 6](#day6)      |  |
-| [Day 7](#day7)      | | [Day 8](#day8)      |  |
+| [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Agile Meeeting 1](#agile_1)      |Agile Meeeting #1  |
+| [Day 6](#day6)      | | [Day 8](#day8)      |  |
 | [Day 9](#day9)      | | [Day 10](#day10)    |  |
 | [Day 11](#day11)    | | [Day 12](#day12)    |  |
 | [Day 13](#day13)    | | [Day 14](#day14)    |  |
@@ -148,7 +148,65 @@ Great week, hard to believe it's already been five days and looking forward to d
 
 https://www.vuemastery.com/courses/intro-to-vue-js/computed-properties 
 ***
-[Back to Top](#top)  
+[Back to Top](#top) 
+
+<a name="agile1"></a>
+### Agile Meeting 1: July 10, 2018 
+
+**What we did this week**: 
+- Set up environment & tools
+- went through set up and project with all coaches
+- kickoff call
+- met our supervisor
+- wrote first blog post and pushed to repo, made pr request
+- spent time learning Vue.js
+
+**What was good** 
+- getting set up
+- Vue tutorial
+- seeing the code
+- organisation set up
+
+**What was not so good**
+- lacked structure & targets
+- not enough programming
+- each day felt like a new start
+
+**Blockers**
+- not knowing Vue
+- Issue #106 branch on Jessica's machine here and at home looking different (Camila will help)
+
+**Coaches feedback***
+- Missing co-ordination between coaches
+- Many coaches with different background
+- Don’t want to over explain what we need - coaches should read our updates :)
+
+*solutions
+- email to all coaches - where are updates available
+- ping them in issue Camila created for structuring Agile 
+Invite all coaches for Monday Meeting. make later
+feedback coaches
+add notes (bullet points) to gihub repo log
+
+**What we will do next week***
+- Meet with Bart and get update on progress for porting to Vue.js
+- Start other issues already on the contacts app:
+  - [#106](https://github.com/nextcloud/contacts/issues/106) - Jessica has started - see above
+  - [#130](https://github.com/nextcloud/contacts/issues/130) - social media fields - requested more information
+  - [#333](https://github.com/nextcloud/contacts/issues/333) - when deleting contact no contact shown
+  - Ask Bart what current repo issues would be most important to look at.
+- Plan to structure time better:
+  - time alone - spend on vue.js
+  - time together - work on issues
+  - look at issue together, discuss how to solve issue, then move forward together
+
+**Link(s) to work/ commits/ PRs**: 
+RuPaul Quote machine code: https://github.com/team-popcorn/RuPaul-Quote-App
+On Github Pages: https://team-popcorn.github.io/RuPaul-Quote-App/#/
+
+
+***
+[Back to Top](#top) 
 
 <a name="day6"></a>
 ### Day 6: January 6, 2018 
