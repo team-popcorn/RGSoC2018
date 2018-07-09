@@ -8,7 +8,7 @@
 | [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      |Awesome Blue Chocolate Ice-cream Popcorn|
 | [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |Sour Purple Banana Popcorn|
 | [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Agile Meeting 1](#agile1)      |Agile Meeeting #1  |
-| [Day 6](#day6)      | | [Day 8](#day8)      |  |
+| [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 8](#day8)      |  |
 | [Day 9](#day9)      | | [Day 10](#day10)    |  |
 | [Day 11](#day11)    | | [Day 12](#day12)    |  |
 | [Day 13](#day13)    | | [Day 14](#day14)    |  |
@@ -209,18 +209,28 @@ On Github Pages: https://team-popcorn.github.io/RuPaul-Quote-App/#/
 [Back to Top](#top) 
 
 <a name="day6"></a>
-### Day 6: January 6, 2018 
+### Day 6: July 9, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- working on a past issue: https://github.com/nextcloud/contacts/issues/106
+- first weekly meeting with coach Camila
+- coordinating with coaches and mentors about the structure of upcoming Monday meetings 
+- continuing with Vue.js tutorials
+- started on the issue linked to below
 
-**Link(s) to work**:  
+**Thoughts:**
+
+It feels great to dig into some actual issues for our project and to see the structure for the next few months taking shape.
+
+**Links:**
+
+https://github.com/nextcloud/contacts/issues/333
 ***
 [Back to Top](#top) 
 
 <a name="day7"></a>
-### Day 7: January 7, 2018 
+### Day 7: July 10, 2018 
 
 **Today's Progress**: 
 **Thoughts**
@@ -230,7 +240,7 @@ On Github Pages: https://team-popcorn.github.io/RuPaul-Quote-App/#/
 [Back to Top](#top) 
 
 <a name="day8"></a>
-### Day 8: January 8, 2018 
+### Day 8: July 11, 2018 
 
 **Today's Progress**: 
 
@@ -241,7 +251,7 @@ On Github Pages: https://team-popcorn.github.io/RuPaul-Quote-App/#/
 [Back to Top](#top) 
 
 <a name="day9"></a>
-### Day 9: January 9, 2018 
+### Day 9: July 12, 2018 
 
 **Today's Progress**: 
 **Thoughts** 
@@ -251,7 +261,7 @@ On Github Pages: https://team-popcorn.github.io/RuPaul-Quote-App/#/
 [Back to Top](#top) 
 
 <a name="day10"></a>
-### Day 10: January 10, 2018 
+### Day 10: July 13, 2018 
 
 **Today's Progress**: 
 
