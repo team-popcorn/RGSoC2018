@@ -7,7 +7,7 @@
 |:-------------------:|:----------------------------------------|:-------------------:|:----------------------------------------------|
 | [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      |Awesome Blue Chocolate Ice-cream Popcorn|
 | [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |Sour Purple Banana Popcorn|
-| [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Agile Meeeting 1](#agile_1)      |Agile Meeeting #1  |
+| [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Agile Meeting 1](#agile1)      |Agile Meeeting #1  |
 | [Day 6](#day6)      | | [Day 8](#day8)      |  |
 | [Day 9](#day9)      | | [Day 10](#day10)    |  |
 | [Day 11](#day11)    | | [Day 12](#day12)    |  |
