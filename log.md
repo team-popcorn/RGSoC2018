@@ -8,9 +8,9 @@
 | [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      |Awesome Blue Chocolate Ice-cream Popcorn|
 | [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |Sour Purple Banana Popcorn|
 | [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Agile Meeting 1](#agile1)      |Agile Meeeting #1  |
-| [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 8](#day8)      |  |
-| [Day 9](#day9)      | | [Day 10](#day10)    |  |
-| [Day 11](#day11)    | | [Day 12](#day12)    |  |
+| [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
+| [Day 8](#day8)      | | [Day 9](#day9)    |  |
+| [Day 10](#day10)    | | [Day 12](#day12)    |  |
 | [Day 13](#day13)    | | [Day 14](#day14)    |  |
 | [Day 15](#day15)    | | [Day 16](#day16)    |  |
 | [Day 17](#day17)    | | [Day 18](#day18)    |  |
@@ -232,10 +232,22 @@ https://github.com/nextcloud/contacts/issues/333
 <a name="day7"></a>
 ### Day 7: July 10, 2018 
 
-**Today's Progress**: 
-**Thoughts**
+**Today's Progress:**
 
-**Link(s) to work**:  
+- worked on issue 333 and even made a commit! (see link below)
+- worked with coach Lora
+- showed progress on issue 333 to coach Kaja 
+- meeting with our supervisor 
+- read more about Angular.js
+- attended the RGSOC meetup
+
+**Thoughts:**
+
+Though we only wrote a few lines of code, it feels like we are really getting into the work of RGSoC!
+
+**Links:**
+
+https://github.com/nextcloud/contacts/tree/fix_issue_333
 ***
 [Back to Top](#top) 
 
