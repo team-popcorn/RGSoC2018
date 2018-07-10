@@ -7,3 +7,6 @@
 - https://github.com/learn-vuejs/vue-patterns
 - https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446
 - https://css-tricks.com/guides/vue/
+
+**Agile**
+- https://css-tricks.com/guides/vue/
