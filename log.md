@@ -9,7 +9,7 @@
 | [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |Sour Purple Banana Popcorn|
 | [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Agile Meeting 1](#agile1)      |Agile Meeeting #1  |
 | [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
-| [Day 8](#day8)      | | [Day 9](#day9)    |  |
+| [Day 8](#day8)      |Surf-green, Smiley Pancakes| [Day 9](#day9)    |  |
 | [Day 10](#day10)    | | [Day 12](#day12)    |  |
 | [Day 13](#day13)    | | [Day 14](#day14)    |  |
 | [Day 15](#day15)    | | [Day 16](#day16)    |  |
@@ -254,11 +254,20 @@ https://github.com/nextcloud/contacts/tree/fix_issue_333
 <a name="day8"></a>
 ### Day 8: July 11, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- meeting with main person maintaining the contacts app to discuss next steps in the migration
+- studied Vuex as it is one of the main dependencies for the contacts app
+- discussed the meeting and Vuex with coach Markus
+- went through the code of the new Vue branch which is the main one for the migration and formulated questions in preparation for the meeting
 
-**Link(s) to work**: 
+**Thoughts:**
+
+The migration is within reach!
+
+**Links:**
+
+https://vuex.vuejs.org/guide/
 ***
 [Back to Top](#top) 
 
