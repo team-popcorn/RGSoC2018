@@ -9,4 +9,4 @@
 - https://css-tricks.com/guides/vue/
 
 **Agile**
-- https://css-tricks.com/guides/vue/
+- https://github.com/lorabv/awesome-agile-software-development
