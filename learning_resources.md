@@ -8,5 +8,11 @@
 - https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446
 - https://css-tricks.com/guides/vue/
 
+
 **Agile**
 - https://github.com/lorabv/awesome-agile-software-development
+
+
+**Vuex**
+- https://vuex.vuejs.org/guide/
+- https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart
