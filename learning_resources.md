@@ -16,6 +16,7 @@
 **Vuex**
 - https://vuex.vuejs.org/guide/
 - https://github.com/vuejs/vuex/tree/dev/examples/shopping-cart
+- https://vueschool.io/lessons/vuex-actions
 
 
 **Sass/scss**
