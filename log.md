@@ -9,7 +9,7 @@
 | [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |Sour Purple Banana Popcorn|
 | [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Agile Meeting 1](#agile1)      |Agile Meeeting #1  |
 | [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
-| [Day 8](#day8)      |Surf-green, Smiley Pancakes| [Day 9](#day9)    |  |
+| [Day 8](#day8)      |Surf-green, Smiley Pancakes| [Day 9](#day9)    |Spacey Green Apple Popcorn|
 | [Day 10](#day10)    | | [Day 12](#day12)    |  |
 | [Day 13](#day13)    | | [Day 14](#day14)    |  |
 | [Day 15](#day15)    | | [Day 16](#day16)    |  |
@@ -274,10 +274,21 @@ https://vuex.vuejs.org/guide/
 <a name="day9"></a>
 ### Day 9: July 12, 2018 
 
-**Today's Progress**: 
-**Thoughts** 
+**Today's Progress:**
 
-**Link(s) to work**:  
+- no coaches visited us because it's Thursday
+- Jessica worked on integrating Vuex into her app
+- Arati set up a basic Vue app
+- more tutorials! (both for Vue and Vuex)
+- discussed conference options
+
+**Thoughts:**
+
+It was really helpful getting help from each other (well Jessica helped Arati!), particularly since no one is more familiar with the current experience of working through RGSOC than the other teammate.
+
+**Links:**
+
+https://medium.com/codingthesmartway-com-blog/vue-js-2-quickstart-tutorial-2017-246195cfbdd2  
 ***
 [Back to Top](#top) 
 
