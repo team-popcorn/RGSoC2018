@@ -8,6 +8,7 @@
 - **Mentor:** [Jan](https://github.com/jancborchardt), [Jona](https://github.com/jonatoni)
 - **Calendar** https://sleepypioneer.portknox.net/apps/calendar/
 - **Project kanban** https://github.com/orgs/nextcloud/projects/11
+- **Retro board** https://funretro.github.io/distributed/#933a9d08-728a-40e1-827a-b0446e864ba2
 - **Schedule:** 
   * Mondays - rotation (*see notes below*)
   * Tuesday - Lora (17:30 Weekly meeting with Neta)
