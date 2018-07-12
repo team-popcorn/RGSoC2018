@@ -19,4 +19,4 @@
 
 
 **Sass/scss**
-https://medium.com/@mahesh.ks/using-sass-scss-in-vue-js-2-d472af0facf9
+- https://medium.com/@mahesh.ks/using-sass-scss-in-vue-js-2-d472af0facf9
