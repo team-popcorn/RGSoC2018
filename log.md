@@ -10,7 +10,7 @@
 | [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Agile Meeting 1](#agile1)      |Agile Meeeting #1  |
 | [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
 | [Day 8](#day8)      |Surf-green, Smiley Pancakes| [Day 9](#day9)    |Spacey Green Apple Popcorn|
-| [Day 10](#day10)    | | [Day 12](#day12)    |  |
+| [Day 10](#day10)    |Playful Yellow Hummus Popcorn| [Day 12](#day12)    |  |
 | [Day 13](#day13)    | | [Day 14](#day14)    |  |
 | [Day 15](#day15)    | | [Day 16](#day16)    |  |
 | [Day 17](#day17)    | | [Day 18](#day18)    |  |
@@ -295,11 +295,17 @@ https://medium.com/codingthesmartway-com-blog/vue-js-2-quickstart-tutorial-2017-
 <a name="day10"></a>
 ### Day 10: July 13, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- Jessica is working on getting local storage for her app
+- she was also figuring out how to fetch and update the store
+- Arati started integrating Vuex into her app
+- she was also learning more about communicating events 
+- meeting with coach Camila (about big picture planning and direction for next week)
 
-**Link(s) to work**: 
+**Thoughts:**
+
+We would like to start working on issues on the new vue branch Monday or Tuesday but if not, studying the users management system  would be a good alternative.
 ***
 [Back to Top](#top) 
 
