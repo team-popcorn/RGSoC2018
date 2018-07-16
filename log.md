@@ -10,7 +10,7 @@
 | [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Agile Meeting 1](#agile1)      |Agile Meeeting #1  |
 | [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
 | [Day 8](#day8)      |Surf-green, Smiley Pancakes| [Day 9](#day9)    |Spacey Green Apple Popcorn|
-| [Day 10](#day10)    |Playful Yellow Hummus Popcorn| [Day 12](#day12)    |Agile Meeeting #2 |
+| [Day 10](#day10)    |Playful Yellow Hummus Popcorn| [Agile Meeting 1](#agile2)    |Agile Meeeting #2 |
 | [Day 13](#day13)    | | [Day 14](#day14)    |  |
 | [Day 15](#day15)    | | [Day 16](#day16)    |  |
 | [Day 17](#day17)    | | [Day 18](#day18)    |  |
@@ -309,7 +309,7 @@ We would like to start working on issues on the new vue branch Monday or Tuesday
 ***
 [Back to Top](#top) 
 
-<a name="day11"></a>
+<a name="agile2"></a>
 ### Agile Meeting 2: July 16, 2018 
 
 **What we did this week**: 
