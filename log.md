@@ -310,14 +310,40 @@ We would like to start working on issues on the new vue branch Monday or Tuesday
 [Back to Top](#top) 
 
 <a name="day11"></a>
-### Day 11: January 11, 2018 
+### Agile Meeting 2: July 16, 2018 
 
-**Today's Progress**: 
+**What we did this week**: 
+- on team updates
 
-**Thoughts**
+**What was good** 
+- approach learning our own way but still share resources together
+- looking at possible issues in the old app together
 
+**What was not so good**
+- completing tasks--> not having made the PR when we were done with the partial fix for #333
+- still facing the issue of spending too much time updating coaches when we meet
 
-**Link(s) to work**:  
+**Blockers**
+- waiting for roadmap about where to start
+
+**Coaches feedback***
+- didn't cover this point during the meeting
+
+*solutions
+- will send PR to Markus to review so that we can have a completed PR
+- having more structured goals for ourselves 
+   - a bigger overview for the week that we write during/after the weekly meeting
+   - then this gets expanded on during the taskmaking for the next day
+- when meeting coaches, we will give them 20 minutes of reading time to read our updates and then have a quick meeting to discuss (capped at 10m)
+- also keeping in mind that we can write to coaches ahead of time if we don't think we'll need time with them on a certain day
+
+**What we will do next week**: 
+- make the PR (#333)
+- have something to show Johnbart—> the first panel with the groups (the new contact button, all contacts group and not grouped section)
+
+**Link(s) to work/ commits/ PRs**: 
+Migration plan: https://github.com/nextcloud/contacts/issues/578
+  
 ***
 [Back to Top](#top) 
 
