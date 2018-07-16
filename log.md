@@ -358,6 +358,7 @@ Migration plan: https://github.com/nextcloud/contacts/issues/578
 - talked with App maintainer regarding road map
 - pulled and built blank vue.js contacts app
 - set weekly plan and what we want to achieve tomorrow.
+- made PR for partial fix for issue #333
 
 **Thoughts:**
 
@@ -367,6 +368,8 @@ An exciting start to the week as we now have the base template and road map to s
 
 https://github.com/nextcloud/contacts/tree/vue
 https://github.com/nextcloud/contacts/issues/578
+
+PR: https://github.com/nextcloud/contacts/pull/579
 
 ***
 [Back to Top](#top) 
