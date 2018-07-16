@@ -7,6 +7,8 @@
 - https://github.com/learn-vuejs/vue-patterns
 - https://medium.freecodecamp.org/the-vue-handbook-a-thorough-introduction-to-vue-js-1e86835d8446
 - https://css-tricks.com/guides/vue/
+- https://hackernoon.com/javascript-framework-comparison-with-examples-react-vue-hyperapp-97f064fb468d
+- https://flaviocopes.com/vue-developer-roadmap/
 
 
 **Agile**
