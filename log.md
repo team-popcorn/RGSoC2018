@@ -11,7 +11,8 @@
 | [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
 | [Day 8](#day8)      |Surf-green, Smiley Pancakes| [Day 9](#day9)    |Spacey Green Apple Popcorn|
 | [Day 10](#day10)    |Playful Yellow Hummus Popcorn| [Agile Meeting 2](#agile2)    |Agile Meeeting #2 |
-| [Day 13](#day13)    | | [Day 14](#day14)    |  |
+| [Day 11](#day11)    |Picante verde patatas bravas
+ | [Day 14](#day14)    |  |
 | [Day 15](#day15)    | | [Day 16](#day16)    |  |
 | [Day 17](#day17)    | | [Day 18](#day18)    |  |
 | [Day 19](#day19)    | | [Day 20](#day20)    |  |
@@ -347,12 +348,26 @@ Migration plan: https://github.com/nextcloud/contacts/issues/578
 ***
 [Back to Top](#top) 
 
- <a name="day12"></a>
-### Day 12: January 12, 2018
+ <a name="day11”></a>
+### Day 11: July 16, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts**
+- continuation of VUEX research
+- agile meeting - see separate log
+- talked with App maintainer regarding road map
+- pulled and built blank vue.js contacts app
+- set weekly plan and what we want to achieve tomorrow.
+
+**Thoughts:**
+
+An exciting start to the week as we now have the base template and road map to start contributing on the migration.
+
+**Links:**
+
+https://github.com/nextcloud/contacts/tree/vue
+https://github.com/nextcloud/contacts/issues/578
+
 ***
 [Back to Top](#top) 
 
