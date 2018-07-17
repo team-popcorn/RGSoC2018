@@ -354,7 +354,7 @@ Migration plan: https://github.com/nextcloud/contacts/issues/578
 **Today's Progress:**
 
 - continuation of VUEX research
-- agile meeting - see separate log
+- agile meeting - [see separate log](#agile2)
 - talked with App maintainer regarding road map
 - pulled and built blank vue.js contacts app
 - set weekly plan and what we want to achieve tomorrow.
