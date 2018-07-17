@@ -373,8 +373,8 @@ PR: https://github.com/nextcloud/contacts/pull/579
 ***
 [Back to Top](#top) 
 
-<a name="day12”></a>
-### Day 12: July 17, 2018 
+ <a name="day12"></a>
+### Day 12: July 17, 2018  
 
 **Today's Progress:**
 
