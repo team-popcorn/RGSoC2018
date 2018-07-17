@@ -11,8 +11,7 @@
 | [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
 | [Day 8](#day8)      |Surf-green, Smiley Pancakes| [Day 9](#day9)    |Spacey Green Apple Popcorn|
 | [Day 10](#day10)    |Playful Yellow Hummus Popcorn| [Agile Meeting 2](#agile2)    |Agile Meeeting #2 |
-| [Day 11](#day11)    |Picante verde patatas bravas
- | [Day 14](#day14)    |  |
+| [Day 11](#day11)    |Picante verde patatas bravas| [Day 12](#day12) | Aufregend türkis Kaiserschmarren |
 | [Day 15](#day15)    | | [Day 16](#day16)    |  |
 | [Day 17](#day17)    | | [Day 18](#day18)    |  |
 | [Day 19](#day19)    | | [Day 20](#day20)    |  |
@@ -374,12 +373,26 @@ PR: https://github.com/nextcloud/contacts/pull/579
 ***
 [Back to Top](#top) 
 
-<a name="day13"></a>
-### Day 13: January 13, 2018 
+<a name="day12”></a>
+### Day 12: July 17, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- looked into Jest
+- pulled latest Vue branch and tried to get contacts app running
+  - hit issue with PHP Parse error, could not resolve and have reached out to App maintainer for help
+- Arati worked within older version of app to see how to connect components.
+- looked through code base of Vue.js app
+- fixed our first blog post
+
+**Thoughts:**
+
+Slightly frustrating day as we are unsure how to fix the PHP parsing error. However good to be able to look at and work with the code.
+
+**Links:**
+
+https://github.com/nextcloud/contacts/tree/vue
+
 ***
 [Back to Top](#top) 
 
