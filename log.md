@@ -348,7 +348,7 @@ Migration plan: https://github.com/nextcloud/contacts/issues/578
 ***
 [Back to Top](#top) 
 
- <a name="day11”></a>
+ <a name="day11"></a>
 ### Day 11: July 16, 2018 
 
 **Today's Progress:**
