@@ -11,8 +11,8 @@
 | [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
 | [Day 8](#day8)      |Surf-green, Smiley Pancakes| [Day 9](#day9)    |Spacey Green Apple Popcorn|
 | [Day 10](#day10)    |Playful Yellow Hummus Popcorn| [Agile Meeting 2](#agile2)    |Agile Meeeting #2 |
-| [Day 11](#day11)    |Picante verde patatas bravas| [Day 12](#day12) | Aufregend türkis Kaiserschmarren |
-| [Day 15](#day15)    | | [Day 16](#day16)    |  |
+| [Day 11](#day11)    |Picante verde patatas bravas| [Day 12](#day12) | Der aufregenden türkis Kaiserschmarren |
+| [Day 13](#day13)    |Das schönes gelben Schnitzel | [Day 16](#day16) |  |
 | [Day 17](#day17)    | | [Day 18](#day18)    |  |
 | [Day 19](#day19)    | | [Day 20](#day20)    |  |
 | [Day 21](#day21)    | | [Day 22](#day22)    |  |
@@ -396,14 +396,18 @@ https://github.com/nextcloud/contacts/tree/vue
 ***
 [Back to Top](#top) 
 
-<a name="day14"></a>
-### Day 14: January 14, 2018 
+<a name="day13"></a>
+### Day 13: July 18, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- Jessica had to upgrade PHP to 7.2, Arati helped with this as she had a similar experience on her own computer.
+- Looked through code base for Vue Branch, started to make changes and list questions for meeting tomorrow with App Maintainer
 
-**Link(s) to work**: 
+**Thoughts:**
+
+It was a little confusing with the PHP upgrade as I had ran the commands but with no effect. Luckily our coach Victor was on hand to help and explain a little more to the set up!
+
 ***
 [Back to Top](#top) 
 
