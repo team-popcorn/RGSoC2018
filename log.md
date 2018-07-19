@@ -11,8 +11,8 @@
 | [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
 | [Day 8](#day8)      |Surf-green, Smiley Pancakes| [Day 9](#day9)    |Spacey Green Apple Popcorn|
 | [Day 10](#day10)    |Playful Yellow Hummus Popcorn| [Agile Meeting 2](#agile2)    |Agile Meeeting #2 |
-| [Day 11](#day11)    |Picante verde patatas bravas| [Day 12](#day12) | Der aufregenden türkis Kaiserschmarren |
-| [Day 13](#day13)    |Das schönes gelben Schnitzel | [Day 16](#day16) |  |
+| [Day 11](#day11)    |Popcorn picante verde patatas bravas| [Day 12](#day12) | Das aufregende türkise Kaiserschmarrenpopcorn |
+| [Day 13](#day13)    |Das schönes gelben Schnitzelpopcorn | [Day 16](#day16) | Popcorn caramel rouge confit |
 | [Day 17](#day17)    | | [Day 18](#day18)    |  |
 | [Day 19](#day19)    | | [Day 20](#day20)    |  |
 | [Day 21](#day21)    | | [Day 22](#day22)    |  |
@@ -411,12 +411,19 @@ It was a little confusing with the PHP upgrade as I had ran the commands but wit
 ***
 [Back to Top](#top) 
 
-<a name="day15"></a>
-### Day 15: January 15, 2018 
+<a name="day14"></a>
+### Day 14: July 19, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- We continued looking through how the App maintainer had built the initial code
+- Met with the app Maintainer to go over initial questions
+- Talked with our temporary supervisor for the week Vaishali who is in the forest hoping to learn how to catch snakes for safe removal.
+
+**Thoughts:**
+
+We on one hand feel excited to have the code base at our finger tips and on the other feel we have *a lot* to learn.
+
 ***
 [Back to Top](#top) 
                                                                                                                     
