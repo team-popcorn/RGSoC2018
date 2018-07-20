@@ -13,7 +13,7 @@
 | [Day 10](#day10)    |Playful Yellow Hummus Popcorn| [Agile Meeting 2](#agile2)    |Agile Meeeting #2 |
 | [Day 11](#day11)    |Popcorn picante verde patatas bravas| [Day 12](#day12) | Das aufregende türkise Kaiserschmarrenpopcorn |
 | [Day 13](#day13)    |Das schönes gelben Schnitzelpopcorn | [Day 14](#day14) | Popcorn caramel rouge confit |
-| [Day 17](#day17)    | | [Day 18](#day18)    |  |
+| [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela | [Day 18](#day18)    |  |
 | [Day 19](#day19)    | | [Day 20](#day20)    |  |
 | [Day 21](#day21)    | | [Day 22](#day22)    |  |
 | [Day 23](#day23)    | | [Day 24-31](#day24-31) |  |
@@ -427,15 +427,22 @@ We on one hand feel excited to have the code base at our finger tips and on the 
 ***
 [Back to Top](#top) 
                                                                                                                     
-<a name="day16"></a>
-### Day 16: January 16, 2018 
+<a name="day15"></a>
+### Day 15: July 20, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
-**Link(s) to work**: 
+- Continued to explore the code base and its logic.
+- Had screen sharing session with App maintainer to go through work flow and build a component with him.
+- Had our lovely coach Camila with us for moral support.
+
+**Thoughts:**
+
+It was great to have the shared screen session with the App maintainer so that we could understand exactly what he was talking about. We watched him build a component and talked about our work flow.
+
 ***
 [Back to Top](#top) 
+
 
 <a name="day17"></a>
 ### Day 17: January 17, 2018 
