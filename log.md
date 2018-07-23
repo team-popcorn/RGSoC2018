@@ -14,7 +14,7 @@
 | [Day 11](#day11)    |Popcorn picante verde patatas bravas| [Day 12](#day12) | Das aufregende türkise Kaiserschmarrenpopcorn |
 | [Day 13](#day13)    |Das schönes gelben Schnitzelpopcorn | [Day 14](#day14) | Popcorn caramel rouge confit |
 | [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela | [Agile Meeting 3](#agile3)    |Agile Meeeting #3  |
-| [Day 19](#day19)    | | [Day 20](#day20)    |  |
+| [Day 16](#day16)    |Tired Grey Croissant Popcorn| [Day 20](#day20)    |  |
 | [Day 21](#day21)    | | [Day 22](#day22)    |  |
 | [Day 23](#day23)    | | [Day 24-31](#day24-31) |  |
 | [Day 32](#day32)    | | [Day 33](#day33)    |  |
@@ -496,14 +496,19 @@ https://railsgirlssummerofcode.org/blog/2018-07-23-welcome-to-team-popcorn
 ***
 [Back to Top](#top) 
 
-<a name="day18"></a>
-### Day 18: January 18, 2018 
+<a name="day16"></a>
+### Day 16: July 23, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- Had a very useful weekly meeting with coaches Kaja, Camila and Lora.
+- Started building the UI based on the code we had gone through during the meeting with the main Contacts maintainer last week, particularly addressBook.vue, but we also added new components (contactImport.vue and sortContacts.vue).
+- Had a meeting just the two of us to go over code that Jessica had written in the time before our core hours.
+- Also created issues together to track the tasks ahead.
 
-**Link(s) to work**:  
+**Thoughts:**
+
+There is a definite sense that we are getting into a work rhythm! 
 ***
 [Back to Top](#top) 
 
