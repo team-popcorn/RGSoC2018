@@ -443,7 +443,7 @@ It was great to have the shared screen session with the App maintainer so that w
 ***
 [Back to Top](#top) 
 
-<a name="agile3”></a>
+<a name="agile3"></a>
 ### Agile Meeting 2: July 23, 2018 
 
 **What we did this week**: 
