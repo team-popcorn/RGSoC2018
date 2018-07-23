@@ -13,7 +13,7 @@
 | [Day 10](#day10)    |Playful Yellow Hummus Popcorn| [Agile Meeting 2](#agile2)    |Agile Meeeting #2 |
 | [Day 11](#day11)    |Popcorn picante verde patatas bravas| [Day 12](#day12) | Das aufregende türkise Kaiserschmarrenpopcorn |
 | [Day 13](#day13)    |Das schönes gelben Schnitzelpopcorn | [Day 14](#day14) | Popcorn caramel rouge confit |
-| [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela | [Day 18](#day18)    |  |
+| [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela | [Agile Meeting 3](#agile3)    |Agile Meeeting #3  |
 | [Day 19](#day19)    | | [Day 20](#day20)    |  |
 | [Day 21](#day21)    | | [Day 22](#day22)    |  |
 | [Day 23](#day23)    | | [Day 24-31](#day24-31) |  |
@@ -443,13 +443,56 @@ It was great to have the shared screen session with the App maintainer so that w
 ***
 [Back to Top](#top) 
 
+<a name="agile3”></a>
+### Agile Meeting 2: July 23, 2018 
 
-<a name="day17"></a>
-### Day 17: January 17, 2018 
+**What we did this week**: 
+- made a PR for our issue last week and had it merged
+- made weekly plan
+- initial meeting with App maintainer regarding road map
+- updated PHP on Jessica machine
+- looked into testing with Jest
+- spoke with App maintainer about the project and had live coding session
+- learnt the word for popcorn in portuguese
 
-**Today's Progress**: 
+**What was good** 
+- live coding session with App maintainer to have full example how to proceed
+- nice getting help from Victor with PHP
+- learned about forking repos & keeping them updated.
+- better organised how to run Agile meeting - key take away (Prep before hand)
+- was good to go through code base ourselves and understand some parts
 
-**Thoughts** 
+**What was not so good**
+- was tough to understand code base without support from App maintainer as some parts were misleading
+- blocking issue with PHP (when to ask for help and what to do when no coaches)
+- forking took time
+
+**Blockers**
+- waiting for call with App maintainer
+- problem with PHP version lost us a lot of time! Initially figuring it out and then trying to fix it.
+
+**Coaches feedback***
+- It’s totally fine to have some days with no coach and may be preferable at points.
+
+
+*solutions
+- have a file (troll/ mark down/ day / week / =>log) with useful code snippets / tips / best practices / solutions to issues encountered
+- can email coaches if urgent (as not always checking Riot)
+
+**What we will do next week***
+- start to work on the settings menu in the App Navigation
+- Pair programme to get going and then split up components and work on Base UI
+- move on to functionality when Base UI is done but also come together to discuss progress (What was difficult / what was not)
+- have another session with App Maintainer to show him our initial progress and make sure we are on the same page.
+- clear up mentors role and how App maintainer fits in (check with Neta, get him attached on the teams app)
+
+**Link(s) to work/ commits/ PRs**: 
+https://github.com/nextcloud/contacts/pull/579
+https://github.com/team-popcorn/contacts/tree/vue
+
+Our first RGSoC blog was published!
+https://railsgirlssummerofcode.org/blog/2018-07-23-welcome-to-team-popcorn
+
 ***
 [Back to Top](#top) 
 
