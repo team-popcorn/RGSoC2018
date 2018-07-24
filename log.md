@@ -14,7 +14,7 @@
 | [Day 11](#day11)    |Popcorn picante verde patatas bravas| [Day 12](#day12) | Das aufregende türkise Kaiserschmarrenpopcorn |
 | [Day 13](#day13)    |Das schönes gelben Schnitzelpopcorn | [Day 14](#day14) | Popcorn caramel rouge confit |
 | [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela | [Agile Meeting 3](#agile3)    |Agile Meeeting #3  |
-| [Day 16](#day16)    |Tired Grey Croissant Popcorn| [Day 20](#day20)    |  |
+| [Day 16](#day16)    |Tired Grey Croissant Popcorn| [Day 17](#day17)    |Warm Grey Pizza Popcorn|
 | [Day 21](#day21)    | | [Day 22](#day22)    |  |
 | [Day 23](#day23)    | | [Day 24-31](#day24-31) |  |
 | [Day 32](#day32)    | | [Day 33](#day33)    |  |
@@ -512,15 +512,17 @@ There is a definite sense that we are getting into a work rhythm!
 ***
 [Back to Top](#top) 
 
-<a name="day19"></a>
-### Day 19: January 19, 2018 
+<a name="day17"></a>
+### Day 17: July 24, 2018 
+**Today's Progress:**
 
-**Today's Progress**: 
+- We had a meeting with the main contacts maintainer.
+- We split the work to do for setting up the base UI--(Jessica will do sortContacts and shareAddressBook and Arati will do importContacts and addAddressBook).
+- We started on our individual sections.
+- Had a talk with our coach Lora about Vue tutorials and conferences.
 
-**Thoughts** 
-
-
-**Link(s) to work**: 
+**Thoughts:**
+It's been so helpful having regular meetings with the main contacts maintainer and getting detailed insight into how he wants to do the migration.
 ***
 [Back to Top](#top) 
 
