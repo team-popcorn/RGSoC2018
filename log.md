@@ -15,7 +15,7 @@
 | [Day 13](#day13)    |Das schönes gelben Schnitzelpopcorn | [Day 14](#day14) | Popcorn caramel rouge confit |
 | [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela | [Agile Meeting 3](#agile3)    |Agile Meeeting #3  |
 | [Day 16](#day16)    |Tired Grey Croissant Popcorn| [Day 17](#day17)    |Warm Grey Pizza Popcorn|
-| [Day 21](#day21)    | | [Day 22](#day22)    |  |
+| [Day 18](#day18)    |Nice Grey Pizza Popcorn| [Day 22](#day22)    |  |
 | [Day 23](#day23)    | | [Day 24-31](#day24-31) |  |
 | [Day 32](#day32)    | | [Day 33](#day33)    |  |
 | [Day 34](#day34)    | | [Day 35](#day35)    |  |
@@ -526,14 +526,19 @@ It's been so helpful having regular meetings with the main contacts maintainer a
 ***
 [Back to Top](#top) 
 
-<a name="day20"></a>
-### Day 20: January 20, 2018 
+<a name="day18"></a>
+### Day 18: July 25, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts**  
+- We had a meeting with the main contacts maintainer--the focus was how he wanted to create the CSS classes for the new app.
+- We had a meeting with our supervisor Neta, in person this time!
+- We learned more about the multiselect library for Vue.js and how to implement it.
+- We made a proper start of our individual sections regarding the UI.
+- We have learned that our coaches wear a lot of grey and eat a lot of pizza ;)
 
-**Link(s) to work**: 
+**Thoughts:**
+Now that we have very definite sections that we are working on and have established a regular line of communication with the main app maintainer, our work time feels shorter than ever!
 ***
 [Back to Top](#top) 
 
