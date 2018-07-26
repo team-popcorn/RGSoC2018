@@ -15,8 +15,8 @@
 | [Day 13](#day13)    |Das schönes gelben Schnitzelpopcorn | [Day 14](#day14) | Popcorn caramel rouge confit |
 | [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela | [Agile Meeting 3](#agile3)    |Agile Meeeting #3  |
 | [Day 16](#day16)    |Tired Grey Croissant Popcorn| [Day 17](#day17)    |Warm Grey Pizza Popcorn|
-| [Day 18](#day18)    |Nice Grey Pizza Popcorn| [Day 22](#day22)    |  |
-| [Day 23](#day23)    | | [Day 24-31](#day24-31) |  |
+| [Day 18](#day18)    |Nice Grey Pizza Popcorn| [Day 19](#day19)    |Warm Grey Tea Popcorn|
+| [Day 20](#day20)    | | [Day 24-31](#day24-31) |  |
 | [Day 32](#day32)    | | [Day 33](#day33)    |  |
 | [Day 34](#day34)    | | [Day 35](#day35)    |  |
 | [Day 36](#day36)    | | [Day 37](#day37)    |  |
@@ -542,17 +542,23 @@ Now that we have very definite sections that we are working on and have establis
 ***
 [Back to Top](#top) 
 
-<a name="day21"></a>
-### Day 21: January 21, 2018 
+<a name="day19"></a>
+### Day 19: July 26, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts**
+- Focused on the sharee component for Jessica, hardcoding the contacts to get the positioning of the names and icons right to begin with.
+- Focused on the importContacts app for Arati and how to display the correct addressbook names and get closer to the final styling.
+- Learned more about the multiselect library and the users management portion of the server app while trying to reproduce the multiselect for the importContacts and sortContacts components.
+- We were with our coach Camila today.
+
+**Thoughts:**
+The settings section of the first panel is really starting to look like something!
 ***
 [Back to Top](#top) 
 
-<a name="day22"></a>
-### Day 22: January 22, 2018 
+<a name="day20"></a>
+### Day 20: July 27, 2018 
 
 **Today's Progress**: 
 
