@@ -16,7 +16,7 @@
 | [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela | [Agile Meeting 3](#agile3)    |Agile Meeeting #3  |
 | [Day 16](#day16)    |Tired Grey Croissant Popcorn| [Day 17](#day17)    |Warm Grey Pizza Popcorn|
 | [Day 18](#day18)    |Nice Grey Pizza Popcorn| [Day 19](#day19)    |Warm Grey Tea Popcorn|
-| [Day 20](#day20)    | | [Day 24-31](#day24-31) |  |
+| [Day 20](#day20)    |Inspired Blue Beetroot Popcorn| [Day 24-31](#day24-31) |  |
 | [Day 32](#day32)    | | [Day 33](#day33)    |  |
 | [Day 34](#day34)    | | [Day 35](#day35)    |  |
 | [Day 36](#day36)    | | [Day 37](#day37)    |  |
@@ -560,11 +560,15 @@ The settings section of the first panel is really starting to look like somethin
 <a name="day20"></a>
 ### Day 20: July 27, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- Jessica created the popover menu for the settings section and was adjusting the multi-select for shareAddressBook. 
+- Arati fixed the display of the two button for importContacts and started looking at positioning the icon correctly as well.
+- Finalised a date for a gathering of coaches, mentors and supervisor of Team Popcorn in mid-August.
+-  Jessica did a mini intro of flex for Arati. She is really a fantastic teammate and teacher! 
 
-**Link(s) to work**:  
+**Thoughts:**
+It's hard to believe the UI of the setting sections is almost finished which means the UI for the first panel is almost done which means one down, two to go! 
 ***
 [Back to Top](#top) 
 
