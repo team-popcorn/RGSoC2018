@@ -24,5 +24,6 @@
 **Sass/scss**
 - https://medium.com/@mahesh.ks/using-sass-scss-in-vue-js-2-d472af0facf9
 
-**Vue Dev Tools**
+**Visual Studio Code**
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
 https://vuejs.org/v2/cookbook/debugging-in-vscode.html
