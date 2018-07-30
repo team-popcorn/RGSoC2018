@@ -579,12 +579,13 @@ It's hard to believe the UI of the setting sections is almost finished which mea
 - on team updates: https://teams.railsgirlssummerofcode.org/teams/801
 
 **What was good** 
-- approach learning our own way but still share resources together
-- looking at possible issues in the old app together
+- making progress about contributing to the actual repository
+- meetings with John
+- seeing progress on problems we encounter whether in coding or facilitating coding
+- getting help from Jessica about CSS flex
 
 **What was not so good**
-- completing tasks--> not having made the PR when we were done with the partial fix for #333
-- still facing the issue of spending too much time updating coaches when we meet
+- related to blockers (below)
 
 **Blockers**
 - issues with juggling the different repositories (Jessica and Arati's local repositories and then the two remote ones)
@@ -598,14 +599,9 @@ It's hard to believe the UI of the setting sections is almost finished which mea
 *solutions
 - We sat down and created a process to follow for updating our work in terms of when to pull the origin and when to pull the upstream branches.
 - we can ask Kaja or Victor for help to get the screens working.
+- we can ask questions even if we are not sure if the coaches will have an answer--discussing can help to unblock
+- another way to get feedback (other than asking questions) is to ask for a coach to review something after you're done.
 
-
-**What we will do next week**: 
-- make the PR (#333)
-- have something to show Johnbart—> the first panel with the groups (the new contact button, all contacts group and not grouped section)
-
-**Link(s) to work/ commits/ PRs**: 
-Migration plan: https://github.com/nextcloud/contacts/issues/578  
 ***
 [Back to Top](#top) 
 
