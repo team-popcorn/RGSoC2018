@@ -16,8 +16,8 @@
 | [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela | [Agile Meeting 3](#agile3)    |Agile Meeeting #3  |
 | [Day 16](#day16)    |Tired Grey Croissant Popcorn| [Day 17](#day17)    |Warm Grey Pizza Popcorn|
 | [Day 18](#day18)    |Nice Grey Pizza Popcorn| [Day 19](#day19)    |Warm Grey Tea Popcorn|
-| [Day 20](#day20)    |Inspired Blue Beetroot Popcorn| [Day 24-31](#day24-31) |  |
-| [Day 32](#day32)    | | [Day 33](#day33)    |  |
+| [Day 20](#day20)    |Inspired Blue Beetroot Popcorn| [Agile Meeting 4](#agile4) | Agile Meeeting #4 |
+| [Day 21](#day21)    |Determined #F37572 Pink Grapefruit Popcorn | [Day 33](#day33)    |  |
 | [Day 34](#day34)    | | [Day 35](#day35)    |  |
 | [Day 36](#day36)    | | [Day 37](#day37)    |  |
 | [Day 38](#day38)    | | [Day 39](#day39)    |  |
@@ -572,8 +572,8 @@ It's hard to believe the UI of the setting sections is almost finished which mea
 ***
 [Back to Top](#top) 
 
-<a name="day23"></a>
-### Day 23: January 23, 2018 
+<a name="agile4"></a>
+### Agile 4
 
 **Today's Progress**: 
 
@@ -584,14 +584,22 @@ It's hard to believe the UI of the setting sections is almost finished which mea
 ***
 [Back to Top](#top) 
 
-<a name="day24-31"></a>
-### Day 24 - 31: January 24 - 31, 2018 
+<a name="day21"></a>
+### Day 21: July 30, 2018 
 
 **Today's Progress**:
+- Went over protocol for version control and making sure our fork is up to date with the upstream
+- Looked at new code from App maintainer
+- Continued working on our own components UI and looked at functionality
+- Had agile meeting [see separate log](#agile4)
+- Reached out to coaches regarding knowledge sharing sessions and suggested dates
 
 **Thoughts** 
+It was great talking with our coaches about our approach and concerns. Also recieving some feedback from them was incredibly valuable.
 
 **Link(s) to work**: 
+https://github.com/team-popcorn/contacts
+
 ***
 [Back to Top](#top) 
 
