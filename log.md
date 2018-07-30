@@ -575,12 +575,37 @@ It's hard to believe the UI of the setting sections is almost finished which mea
 <a name="agile4"></a>
 ### Agile 4
 
-**Today's Progress**: 
+**What we did this week**: 
+- on team updates: https://teams.railsgirlssummerofcode.org/teams/801
 
-**Thoughts**
+**What was good** 
+- approach learning our own way but still share resources together
+- looking at possible issues in the old app together
+
+**What was not so good**
+- completing tasks--> not having made the PR when we were done with the partial fix for #333
+- still facing the issue of spending too much time updating coaches when we meet
+
+**Blockers**
+- issues with juggling the different repositories (Jessica and Arati's local repositories and then the two remote ones)
+- technical issues with the conference room screen as well as how long it takes to get set up due to issues with getting a working screen for our individual work
+
+**Coaches feedback***
+- we discussed carrying out personalised workshops on a variety of topics of interest and began creating a calendar for that.
+- it's great to have everyone contributing in their own way and letting us benefit from their individual strengths
+- we discussed frequency of question asking and if there are ever situations when it's worth
+
+*solutions
+- We sat down and created a process to follow for updating our work in terms of when to pull the origin and when to pull the upstream branches.
+- we can ask Kaja or Victor for help to get the screens working.
 
 
-**Link(s) to work**:  
+**What we will do next week**: 
+- make the PR (#333)
+- have something to show Johnbart—> the first panel with the groups (the new contact button, all contacts group and not grouped section)
+
+**Link(s) to work/ commits/ PRs**: 
+Migration plan: https://github.com/nextcloud/contacts/issues/578  
 ***
 [Back to Top](#top) 
 
