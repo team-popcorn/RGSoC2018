@@ -1,5 +1,5 @@
 <a name="top"></a>
-# 100 Days Of Code - Log
+# RGSoC Team Popcorn - Log
 
 ### Table of contents
 
@@ -17,8 +17,8 @@
 | [Day 16](#day16)    |Tired Grey Croissant Popcorn| [Day 17](#day17)    |Warm Grey Pizza Popcorn|
 | [Day 18](#day18)    |Nice Grey Pizza Popcorn| [Day 19](#day19)    |Warm Grey Tea Popcorn|
 | [Day 20](#day20)    |Inspired Blue Beetroot Popcorn| [Agile Meeting 4](#agile4) | Agile Meeeting #4 |
-| [Day 21](#day21)    |Determined #F37572 Pink Grapefruit Popcorn | [Day 33](#day33)    |  |
-| [Day 34](#day34)    | | [Day 35](#day35)    |  |
+| [Day 21](#day21)    |Determined #F37572 Pink Grapefruit Popcorn | [Day 22](#day22)| Thankful #0082C9 Kumquat Popcorn |
+| [Day 22](#day22)    | | [Day 35](#day35)    |  |
 | [Day 36](#day36)    | | [Day 37](#day37)    |  |
 | [Day 38](#day38)    | | [Day 39](#day39)    |  |
 | [Day 40](#day40)    | | [Day 41](#day41)    |  |
@@ -624,14 +624,18 @@ https://github.com/team-popcorn/contacts
 ***
 [Back to Top](#top) 
 
- <a name="day32"></a>
-### Day 32: February 1, 2018
+ <a name="day22"></a>
+### Day 22: July 31, 2018
 
 **Today's Progress**: 
+- continued with our components, we have started to look at functionailty
+- Had a meeting with the App maintainer and discussed our progress (Thankfully we are going in the right direction!)
+- Got more familiar with CSS
+- Also looked at comments from App maintainer on our recent commits
 
 **Thoughts** 
+We are having some problems when trying to do screen sharing with our App Maintainer(he is in France) this is fairly frustrating and meant we had to cut our meeting short today. We are hoping our coaches at Absolventa will be able to help us. 
 
-**Link(s) to work**: 
 ***
 [Back to Top](#top) 
 
