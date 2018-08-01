@@ -18,7 +18,7 @@
 | [Day 18](#day18)    |Nice Grey Pizza Popcorn| [Day 19](#day19)    |Warm Grey Tea Popcorn|
 | [Day 20](#day20)    |Inspired Blue Beetroot Popcorn| [Agile Meeting 4](#agile4) | Agile Meeeting #4 |
 | [Day 21](#day21)    |Determined #F37572 Pink Grapefruit Popcorn | [Day 22](#day22)| Thankful #0082C9 Kumquat Popcorn |
-| [Day 22](#day22)    | | [Day 35](#day35)    |  |
+| [Day 23](#day23)    |Happy #333333 Bergamont Popcorn | [Day 35](#day35)    |  |
 | [Day 36](#day36)    | | [Day 37](#day37)    |  |
 | [Day 38](#day38)    | | [Day 39](#day39)    |  |
 | [Day 40](#day40)    | | [Day 41](#day41)    |  |
@@ -639,14 +639,18 @@ We are having some problems when trying to do screen sharing with our App Mainta
 ***
 [Back to Top](#top) 
 
-<a name="day33"></a>
-### Day 33: February 2, 2018 
+<a name="day23"></a>
+### Day 23: August 1, 2018 
 
-**Today's Progress**: 
+It's month 2 already of RGSoC!Time flies when your coding! <3
 
-**Thoughts** 
+**Today's Progress**:
+- continued with our components, and their functionality
+- Learnt more about Vue Multiselect properties
+- Had a impromptu knowledge share session with our coach Markus on BEVM and Mixins
 
-**Link(s) to work**:   
+**Thoughts**
+Great to spend some time focused on learning a structuring system for SCSS, even the other developers here decided to join in. Next week Markus will do a knowledge share workshop on Promises, Callbacks and Async Await!  
 ***
 [Back to Top](#top) 
 
