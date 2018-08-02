@@ -1,6 +1,11 @@
 # :whale: Docker tutorial with Victor [@elalemanyo](https://github.com/elalemanyo) :whale:
 
-127.0.01 == localhost
+
+## Install and get started
+
+https://www.docker.com/
+
+***
 
 ## :question: Why use Docker?
 
@@ -29,6 +34,7 @@
 - Use networks for projects so that you don’t get cross environmental services being called
 - Example with haproxy https://github.com/elalemanyo/docker-environment
 - Example with Traefik https://github.com/elalemanyo/docker-localhost
+- 127.0.01 == localhost
 
 ***
 
