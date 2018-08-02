@@ -134,7 +134,7 @@ $ docker-compose up -d
 $ docker ps
 ```
 
-### See what containers are running in the current directory
+### See what services are running in the current directory
 
 ```
 $ docker-compose ps
@@ -160,3 +160,11 @@ $ docker-compose <service-name> start / stop / restart
 ```
 $ docker-compose —help
 ```
+
+#### See all containers running
+
+```
+$ ctop 
+```
+GREEN are active and shows cpu use and memory
+RED are inactive
