@@ -18,7 +18,7 @@
 | [Day 18](#day18)    |Nice Grey Pizza Popcorn| [Day 19](#day19)    |Warm Grey Tea Popcorn|
 | [Day 20](#day20)    |Inspired Blue Beetroot Popcorn| [Agile Meeting 4](#agile4) | Agile Meeeting #4 |
 | [Day 21](#day21)    |Determined #F37572 Pink Grapefruit Popcorn | [Day 22](#day22)| Thankful #0082C9 Kumquat Popcorn |
-| [Day 23](#day23)    |Happy #333333 Bergamont Popcorn | [Day 35](#day35)    |  |
+| [Day 23](#day23)    |Happy #333333 Bergamont Popcorn | [Day 24](#day24)    |Satisfied #E20074 Lemon Popcorn  |
 | [Day 36](#day36)    | | [Day 37](#day37)    |  |
 | [Day 38](#day38)    | | [Day 39](#day39)    |  |
 | [Day 40](#day40)    | | [Day 41](#day41)    |  |
@@ -654,14 +654,19 @@ Great to spend some time focused on learning a structuring system for SCSS, even
 ***
 [Back to Top](#top) 
 
-<a name="day34"></a>
-### Day 34: February 3, 2018 
+<a name="day24"></a>
+### Day 24: August 2, 2018 
 
-**Today's Progress**:
+**Today's Progress:**
+- Got the Sort Contacts function working
+-  Started to refractor CSS following BEVM based on the information from Markus yesterday
+- Had a knowledge share session with Victor about Docker (see link below)
 
-**Thoughts**
+**Thoughts:**
+This was our first knowledge share sessions and it was fantastic. Victor did outstanding work explaining us Docker, how to set it up for projects and gave us lots of useful tips. Feel free to read our notes in the link below if you would like to know more.
 
-**Link(s) to work**: 
+**Links**
+https://github.com/team-popcorn/RGSoC2018/blob/master/docker-knowledge-share.md
 ***
 [Back to Top](#top) 
 
