@@ -19,7 +19,7 @@
 | [Day 20](#day20)    |Inspired Blue Beetroot Popcorn| [Agile Meeting 4](#agile4) | Agile Meeeting #4 |
 | [Day 21](#day21)    |Determined #F37572 Pink Grapefruit Popcorn | [Day 22](#day22)| Thankful #0082C9 Kumquat Popcorn |
 | [Day 23](#day23)    |Happy #333333 Bergamont Popcorn | [Day 24](#day24)    |Satisfied #E20074 Lemon Popcorn  |
-| [Day 36](#day36)    | | [Day 37](#day37)    |  |
+| [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn | [Day 37](#day37)    |  |
 | [Day 38](#day38)    | | [Day 39](#day39)    |  |
 | [Day 40](#day40)    | | [Day 41](#day41)    |  |
 | [Day 42](#day42)    | | [Day 43](#day43)    |  |
@@ -670,14 +670,17 @@ https://github.com/team-popcorn/RGSoC2018/blob/master/docker-knowledge-share.md
 ***
 [Back to Top](#top) 
 
-<a name="day35"></a>
-### Day 35: February 4, 2018 
+<a name="day25"></a>
+### Day 25: August 3, 2018 
 
-**Today's Progress**:  
+**Today's Progress:**
 
-**Thoughts** 
+- Arati worked on the add contact input UI, in particular the border when hovered over and went through her code with our coach Victor
+- Jessica worked on the delete Sharee and edit Sharee's writeable permissions as well as the UI for possible sharees
 
-**Link(s) to work**: 
+**Thoughts:**
+
+A solid day of heads down coding! It was a nice way to finish the week :) We both feel we have learnt a lot of valuable additions this week with our knowledge share session and learning about BEVM. Roll on Monday :)
 ***
 [Back to Top](#top) 
 
