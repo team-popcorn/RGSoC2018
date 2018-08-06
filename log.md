@@ -20,7 +20,7 @@
 | [Day 21](#day21)    |Determined #F37572 Pink Grapefruit Popcorn | [Day 22](#day22)| Thankful #0082C9 Kumquat Popcorn |
 | [Day 23](#day23)    |Happy #333333 Bergamont Popcorn | [Day 24](#day24)    |Satisfied #E20074 Lemon Popcorn  |
 | [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn | [Agile Meeting 5](#agile5) | Agile Meeeting #5 |
-| [Day 38](#day38)    | | [Day 39](#day39)    |  |
+| [Day 26](#day26)    | | [Day 39](#day39)    |  |
 | [Day 40](#day40)    | | [Day 41](#day41)    |  |
 | [Day 42](#day42)    | | [Day 43](#day43)    |  |
 | [Day 44](#day44)    | | [Day 45](#day45)    |  |
@@ -746,14 +746,18 @@ A solid day of heads down coding! It was a nice way to finish the week :) We bot
 ***
 [Back to Top](#top) 
 
-<a name="day37"></a>
-### Day 37: February 6, 2018 
+<a name="day26"></a>
+### Day 26: August 6, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts**
+- Jessica worked on the action to mutate the state—writability of the address book shares (including deleting them).
+- Arati switched from CSS issues to the functionality of the addAddressBook component, first step was finding a way to access the new address book name in the addAddressBook method.
+- Long, in-depth weekly meeting with coaches Kaja and Victor.
 
-**Link(s) to work**:  
+**Thoughts:**
+
+It was really helpful to talk shop with our coaches during the Agile meeting--got to learn about everything from resources to helpful mindsets.
 ***
 [Back to Top](#top) 
 
