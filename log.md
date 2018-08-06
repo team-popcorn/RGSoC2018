@@ -19,7 +19,7 @@
 | [Day 20](#day20)    |Inspired Blue Beetroot Popcorn| [Agile Meeting 4](#agile4) | Agile Meeeting #4 |
 | [Day 21](#day21)    |Determined #F37572 Pink Grapefruit Popcorn | [Day 22](#day22)| Thankful #0082C9 Kumquat Popcorn |
 | [Day 23](#day23)    |Happy #333333 Bergamont Popcorn | [Day 24](#day24)    |Satisfied #E20074 Lemon Popcorn  |
-| [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn | [Day 37](#day37)    |  |
+| [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn | [Agile Meeting 5](#agile5) | Agile Meeeting #5 |
 | [Day 38](#day38)    | | [Day 39](#day39)    |  |
 | [Day 40](#day40)    | | [Day 41](#day41)    |  |
 | [Day 42](#day42)    | | [Day 43](#day43)    |  |
@@ -684,14 +684,64 @@ A solid day of heads down coding! It was a nice way to finish the week :) We bot
 ***
 [Back to Top](#top) 
 
-<a name="day36"></a>
-### Day 36: February 5, 2018 
+<a name="agile5"></a>
+### Agile Meeting 5: August 6, 2018 
 
-**Today's Progress**: 
+**What we did this week**: 
+- Continued on Base UI
+- Sort Contacts function, with local storage
+- Add/ remove/ change edit permission for sharee in Addressbook
+- Impromptu mini knowledge share about [BEVM](https://css-tricks.com/bem-101/)
+- Knowledge share about [Docker](https://github.com/team-popcorn/RGSoC2018/blob/master/docker-knowledge-share.md)
 
-**Thoughts** 
+**What was good** 
+- Talking with coaches about experience
+- Knowledge share session!
+- Got permission to plug into ethernet cable during meetings with App maintainer
+- See how you can effect things with Dev tools, modifying and saving to code base
+- Learning about structuring CSS
+- Seeing what we like in programming
 
-**Link(s) to work**:  
+**What was not so good**
+- Frustrating to cut short our meeting with App Maintainer because of the Wifi situation, hopefully this is now finally fixed!
+- Frustration with CSS and feeling stuck
+- Feeling like code written is not tight or concise
+- Arati had to move which took energy & time away from her
+- Feeling a little behind and pressure that we are failing expectations
+
+**Blockers**
+- Some missing knowledge around CSS
+- Time spent messaging, organising, contacting people
+- Feeling tired and in need of break
+- Having very high expectations of our selves and frustration with not meeting it
+
+**Coaches feedback**
+- Informing coaches about situation with workloads and expectations
+
+*solutions*
+- Jessica to handle some organisation and contacting coaches (Arati always kept updated)
+- Talk about refactoring code
+- [Parkinson law](https://en.wikipedia.org/wiki/Parkinson%27s_law)
+- Take breaks
+- Talk with App maintainer about expectations and time we both have
+- Split time between doing styling and functionality
+- Git auto stash, commit more
+- Pull requests with multiply branches, branch per feature and then make PR to Vue branch (name convention for branch ‘vue_fix_’ or ‘vue_feature_name_of_feature’
+- The run PR from our Vue branch to the Nextcloud/Vue branch
+- [CSS specifify](http://cssspecificity.com/)
+- [CSS 1 div project](https://hacks.mozilla.org/2014/09/single-div-drawings-with-css/) [the website of the project](https://a.singlediv.com/)
+- [Lea Veroux](https://2013.cssconf.com/talk-verou.html)
+- [Sarah Drasner](https://www.youtube.com/watch?v=wc8ovZZ78SY)
+- [Sarah Soueidan](https://www.youtube.com/watch?v=lMFfTRiipOQ)
+- Code pen! https://codepen.io/elalemanyo/
+
+**What we will do next week**
+- Meet with Bart and update him on our progress
+- Talk about actions and mutations
+- Aim to have functions for settings section roughed out
+- Talk about testing with App Maintainer
+- Do a refractor of code with coaches, make time to sit with them
+
 ***
 [Back to Top](#top) 
 
