@@ -717,6 +717,7 @@ A solid day of heads down coding! It was a nice way to finish the week :) We bot
 
 **Coaches feedback**
 - Informing coaches about situation with workloads and expectations
+- Big thanks for supporting us!
 
 *solutions*
 - Jessica to handle some organisation and contacting coaches (Arati always kept updated)
