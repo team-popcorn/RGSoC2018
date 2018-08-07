@@ -20,7 +20,7 @@
 | [Day 21](#day21)    |Determined #F37572 Pink Grapefruit Popcorn | [Day 22](#day22)| Thankful #0082C9 Kumquat Popcorn |
 | [Day 23](#day23)    |Happy #333333 Bergamont Popcorn | [Day 24](#day24)    |Satisfied #E20074 Lemon Popcorn  |
 | [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn | [Agile Meeting 5](#agile5) | Agile Meeeting #5 |
-| [Day 26](#day26)    |Königsblau Reggae-Feverish Watermelon Popcorn| [Day 39](#day39)    |  |
+| [Day 26](#day26)    |Königsblau Reggae-Feverish Watermelon Popcorn| [Day 27](#day27)    |Disgusting Light Blue Watermelon Popcorn|
 | [Day 40](#day40)    | | [Day 41](#day41)    |  |
 | [Day 42](#day42)    | | [Day 43](#day43)    |  |
 | [Day 44](#day44)    | | [Day 45](#day45)    |  |
@@ -761,14 +761,18 @@ It was really helpful to talk shop with our coaches during the Agile meeting--go
 ***
 [Back to Top](#top) 
 
-<a name="day38"></a>
-### Day 38: February 7, 2018 
+<a name="day27"></a>
+### Day 27: August 7, 2018 
+**Today's Progress:**
 
-**Today's Progress**: 
+- Jessica was working on the search input and has to start all over again as a result of our meeting today with the main maintainer of the Contacts app .
+- Arati started applying feedback that the main maintainer of the Contacts app had left on comments about the styling of the importContacts component (in particular regarding the borders of the two buttons).
+- We had a long meeting with the main maintainer of the Contacts app and discussed everything from how to structure our CSS to using actions vs mutations and more specific topics about issues we are working on.
+- We are still both feeling pretty sleep deprived from weekend busyness...
 
-**Thoughts** 
+**Thoughts:**
 
-**Link(s) to work**: 
+Our coaches and mentors are so helpful to talk to, and not just about code!
 ***
 [Back to Top](#top) 
 
