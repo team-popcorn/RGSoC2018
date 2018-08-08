@@ -783,7 +783,7 @@ Our coaches and mentors are so helpful to talk to, and not just about code!
 
 - It's a big day. We are merging our forked branch with the main vue branch in the nextcloud contacts repo! Moving forward we will be working directly in that repo (with smaller branches). 
 - For this purpose, Jessica was adding comments to the sections that she was working on and she also made the PR.
-- The borders for the import section are looking sharp! Related to this section, Arati replaced some selectors in the section to hopefully make the CSS neater.
+- The borders for the import section are looking sharp thanks to our mentor's suggestions! Related to this section, Arati replaced some selectors in the section to hopefully make the CSS neater.
 - We had our weekly meeting with supervisor Neta.
 
 **Thoughts:**
