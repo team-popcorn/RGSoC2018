@@ -21,7 +21,7 @@
 | [Day 23](#day23)    |Happy #333333 Bergamont Popcorn | [Day 24](#day24)    |Satisfied #E20074 Lemon Popcorn  |
 | [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn | [Agile Meeting 5](#agile5) | Agile Meeeting #5 |
 | [Day 26](#day26)    |Königsblau Reggae-Feverish Watermelon Popcorn| [Day 27](#day27)    |Disgusting Light Blue Watermelon Popcorn|
-| [Day 40](#day40)    | | [Day 41](#day41)    |  |
+| [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn| [Day 41](#day41)    |  |
 | [Day 42](#day42)    | | [Day 43](#day43)    |  |
 | [Day 44](#day44)    | | [Day 45](#day45)    |  |
 | [Day 46](#day46)    | | [Day 47](#day47)    |  |
@@ -776,14 +776,19 @@ Our coaches and mentors are so helpful to talk to, and not just about code!
 ***
 [Back to Top](#top) 
 
-<a name="day39"></a>
-### Day 39: February 8, 2018 
+<a name="day28"></a>
+### Day 28: August 8, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- It's a big day. We are merging our forked branch with the main vue branch in the nextcloud contacts repo! Moving forward we will be working directly in that repo (with smaller branches). 
+- For this purpose, Jessica was adding comments to the sections that she was working on and she also made the PR.
+- The borders for the import section are looking sharp! Related to this section, Arati replaced some selectors in the section to hopefully make the CSS neater.
+- We had our weekly meeting with supervisor Neta.
 
-**Link(s) to work**:  
+**Thoughts:**
+
+We are just one week away from the half-way mark but also only a week away from the one month mark--time has a strange way of bending during RGSOC.
 ***
 [Back to Top](#top) 
 
