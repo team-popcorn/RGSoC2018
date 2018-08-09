@@ -21,7 +21,7 @@
 | [Day 23](#day23)    |Happy #333333 Bergamont Popcorn | [Day 24](#day24)    |Satisfied #E20074 Lemon Popcorn  |
 | [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn | [Agile Meeting 5](#agile5) | Agile Meeeting #5 |
 | [Day 26](#day26)    |Königsblau Reggae-Feverish Watermelon Popcorn| [Day 27](#day27)    |Disgusting Light Blue Watermelon Popcorn|
-| [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn| [Day 41](#day41)    |  |
+| [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn| [Day 29](#day29)    |Brain-Melting Royal Slushi Popcorn|
 | [Day 42](#day42)    | | [Day 43](#day43)    |  |
 | [Day 44](#day44)    | | [Day 45](#day45)    |  |
 | [Day 46](#day46)    | | [Day 47](#day47)    |  |
@@ -792,14 +792,17 @@ We are just one week away from the half-way mark but also only a week away from 
 ***
 [Back to Top](#top) 
 
-<a name="day40"></a>
-### Day 40: February 9, 2018 
+<a name="day29"></a>
+### Day 29: August 9, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- Jessica was working on the first version of share contacts version using axios.
+- Arati was working on setting up the functionality for importContacts--in particular working with FileReader and parsing of VCF files. 
 
-**Link(s) to work**:  
+**Thoughts:**
+
+A great day of intense coding with no meetings (nothing against meetings but getting a solid chunk of coding time feels like such a luxury).
 ***
 [Back to Top](#top) 
 
