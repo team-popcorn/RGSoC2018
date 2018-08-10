@@ -22,7 +22,7 @@
 | [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn | [Agile Meeting 5](#agile5) | Agile Meeeting #5 |
 | [Day 26](#day26)    |Königsblau Reggae-Feverish Watermelon Popcorn| [Day 27](#day27)    |Disgusting Light Blue Watermelon Popcorn|
 | [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn| [Day 29](#day29)    |Sweaty Cornflower Ice-Cream Popcorn|
-| [Day 42](#day42)    | | [Day 43](#day43)    |  |
+| [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 43](#day43)    |  |
 | [Day 44](#day44)    | | [Day 45](#day45)    |  |
 | [Day 46](#day46)    | | [Day 47](#day47)    |  |
 | [Day 48](#day48)    | | [Day 49](#day49)    |  |
@@ -806,14 +806,18 @@ A great day of intense coding with no meetings (nothing against meetings but get
 ***
 [Back to Top](#top) 
 
-<a name="day41"></a>
-### Day 41: February 10, 2018 
+<a name="day30"></a>
+### Day 30: August 10, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- Jessica: Worked on refractoring the function for the asyncFind when searching for a user or group to share the chosen addressbook with. Used axios all function to return all promises and regex with text.split(substr) to split out the matching parts to allow for separate styling. Also looked at styling for this element.
+- Arati: Fixed code based on our mentor's feedback. Created a new action called commitContactsFromImport. Not sure yet if the new action works or not. Imported contacts don't appear within the specified address book but haven't yet checked if it's because of missing functionality in another component...
+- Had a nice Team Popcorn discussion about job hunting in tech.
 
-**Link(s) to work**:  
+**Thoughts:**
+
+Our RGSOC time feels more efficient now that certain routines are starting to take shape. 
 ***
 [Back to Top](#top) 
 
