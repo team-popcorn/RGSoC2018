@@ -22,7 +22,7 @@
 | [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn | [Agile Meeting 5](#agile5) | Agile Meeeting #5 |
 | [Day 26](#day26)    |Königsblau Reggae-Feverish Watermelon Popcorn| [Day 27](#day27)    |Disgusting Light Blue Watermelon Popcorn|
 | [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn| [Day 29](#day29)    |Sweaty Cornflower Ice-Cream Popcorn|
-| [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 43](#day43)    |  |
+| [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 31](#day31)    |Rugby playing Brown Burger Popcorn|
 | [Day 44](#day44)    | | [Day 45](#day45)    |  |
 | [Day 46](#day46)    | | [Day 47](#day47)    |  |
 | [Day 48](#day48)    | | [Day 49](#day49)    |  |
@@ -821,14 +821,19 @@ Our RGSOC time feels more efficient now that certain routines are starting to ta
 ***
 [Back to Top](#top) 
 
-<a name="day42"></a>
-### Day 42: February 11, 2018 
+<a name="day31"></a>
+### Day 31: August 13, 2018 
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- Arati was ill today so took the day off
+- Jessica got a working version of the shareAddressbook  function running, and also noticed & fixed a bug in her removeSharee function :)
+- Jessica is also working on a lightening talk for the upcoming Nextcloud conference which takes place in Berlin in two weeks
+- We have been discussing naming conventions for our components and looking at the vue style guide. We have now renamed our components accordingly
 
-**Link(s) to work**:  
+**Thoughts:**
+
+I missed having Arati in the office and hope she feels better soon. It was quite fiddly getting the multi-select hooked up to the shareAddressbook function but very satisfying to complete a working version. I still need to work on the styling and would like to see if I can refractor the code so it is a little cleaner.
 ***
 [Back to Top](#top) 
 
