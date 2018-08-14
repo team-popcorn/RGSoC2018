@@ -23,7 +23,7 @@
 | [Day 26](#day26)    |Königsblau Reggae-Feverish Watermelon Popcorn| [Day 27](#day27)    |Disgusting Light Blue Watermelon Popcorn|
 | [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn| [Day 29](#day29)    |Sweaty Cornflower Ice-Cream Popcorn|
 | [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 31](#day31)    |Rugby playing Brown Burger Popcorn|
-| [Day 44](#day44)    | | [Day 45](#day45)    |  |
+| [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 45](#day45)    |  |
 | [Day 46](#day46)    | | [Day 47](#day47)    |  |
 | [Day 48](#day48)    | | [Day 49](#day49)    |  |
 | [Day 50](#day50)    | | [Day 51](#day51)    |  |
@@ -837,12 +837,18 @@ I missed having Arati in the office and hope she feels better soon. It was quite
 ***
 [Back to Top](#top) 
 
-<a name="day43"></a>
-### Day 43: February 12, 2018 
+<a name="day32"></a>
+### Day 32: August 13, 2018 
 
 **Today's Progress**:
 
+- Jessica worked on refactoring and cleaning up the code she was working on and looked at styling for the share addressbook section
+- Arati was back in today and caught back up with messages 
+- We had our coach Lora in today for our second knowledge share sessions. She was giving us tips on working with Dev tools
+
 **Thoughts** 
+
+Tomorrow we have our weekly meeting with the App maintainer to discuss structuring our CSS and next steps so it has been good to get some solid coding done to be able to present to him.
 
 **Link(s) to work**:  
 ***
