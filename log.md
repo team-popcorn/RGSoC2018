@@ -23,7 +23,7 @@
 | [Day 26](#day26)    |Königsblau Reggae-Feverish Watermelon Popcorn| [Day 27](#day27)    |Disgusting Light Blue Watermelon Popcorn|
 | [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn| [Day 29](#day29)    |Sweaty Cornflower Ice-Cream Popcorn|
 | [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 31](#day31)    |Rugby playing Brown Burger Popcorn|
-| [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 45](#day45)    |  |
+| [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 33](#day33)    |Curling Green-brown Chicken wings Popcorn |
 | [Day 46](#day46)    | | [Day 47](#day47)    |  |
 | [Day 48](#day48)    | | [Day 49](#day49)    |  |
 | [Day 50](#day50)    | | [Day 51](#day51)    |  |
@@ -854,14 +854,17 @@ Tomorrow we have our weekly meeting with the App maintainer to discuss structuri
 ***
 [Back to Top](#top) 
 
-<a name="day44"></a>
-### Day 44: February 13, 2018 
+<a name="day33"></a>
+### Day 33: August 14, 2018 
 
 **Today's Progress**: 
+- Arati worked on refractoring her code on the Add Addressbook using the comments the App maintainer gave on the Github commits
+- Jessica also did some refractoring based on the App Maintainers comments and started on the Popover menu
+- We had a meeting with our coach Markus and the App mainainer to talk about intergrating BEVM in our SCSS and also had a mini code along session with Markus to show us in more detail how to get started.
 
 **Thoughts** 
+It was a good session with the App maintainer today discussing our naming conventions and folder structuring as well as learning more about BEVM. We have also been enjoying refactoring our code and learning new tips as we go!
 
-**Link(s) to work**:  
 ***
 [Back to Top](#top) 
 
