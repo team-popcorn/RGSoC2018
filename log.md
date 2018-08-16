@@ -24,7 +24,7 @@
 | [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn| [Day 29](#day29)    |Sweaty Cornflower Ice-Cream Popcorn|
 | [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 31](#day31)    |Rugby playing Brown Burger Popcorn|
 | [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 33](#day33)    |Curling Green-brown Chicken wings Popcorn |
-| [Day 46](#day46)    | | [Day 47](#day47)    |  |
+| [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn | [Day 47](#day47)    |  |
 | [Day 48](#day48)    | | [Day 49](#day49)    |  |
 | [Day 50](#day50)    | | [Day 51](#day51)    |  |
 | [Day 52](#day52)    | | [Day 53](#day53)    |  |
@@ -868,14 +868,15 @@ It was a good session with the App maintainer today discussing our naming conven
 ***
 [Back to Top](#top) 
 
-<a name="day45"></a>
-### Day 45: February 14, 2018 
+<a name="day34"></a>
+### Day 34: August 15, 2018 
 
 **Today's Progress**: 
+- Jessica refactored her code based on the App Maintainers comments but got a little stuck and frustrated - she is sure it will be clearer come Monday XD
+- Arati started a new branch for when contacts are loading and also combined two functions to make her code more efficient.
 
-**Thoughts**
-
-**Link(s) to work**:  
+**Thoughts** 
+We are excited to have our coaches over to  have a mid-summer-of-code celebration!  
 ***
 [Back to Top](#top) 
 
