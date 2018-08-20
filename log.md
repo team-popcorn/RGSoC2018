@@ -25,7 +25,7 @@
 | [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 31](#day31)    |Rugby playing Brown Burger Popcorn|
 | [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 33](#day33)    |Curling Green-brown Chicken wings Popcorn |
 | [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn |[Agile Meeting 6](#agile6) |Agile Meeeting #6    |
-| [Day 35](#day35)    | | [Day 49](#day49)    |  |
+| [Day 35](#day35)    |Pink Spaghetti Popcorn| [Day 49](#day49)    |  |
 | [Day 50](#day50)    | | [Day 51](#day51)    |  |
 | [Day 52](#day52)    | | [Day 53](#day53)    |  |
 | [Day 54](#day54)    | | [Day 55](#day55)    |  |
