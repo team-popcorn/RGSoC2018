@@ -25,7 +25,7 @@
 | [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 31](#day31)    |Rugby playing Brown Burger Popcorn|
 | [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 33](#day33)    |Curling Green-brown Chicken wings Popcorn |
 | [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn |[Agile Meeting 6](#agile6) |Agile Meeeting #6    |
-| [Day 48](#day48)    | | [Day 49](#day49)    |  |
+| [Day 35](#day35)    | | [Day 49](#day49)    |  |
 | [Day 50](#day50)    | | [Day 51](#day51)    |  |
 | [Day 52](#day52)    | | [Day 53](#day53)    |  |
 | [Day 54](#day54)    | | [Day 55](#day55)    |  |
@@ -925,14 +925,17 @@ We are excited to have our coaches over to  have a mid-summer-of-code celebratio
 ***
 [Back to Top](#top) 
 
-<a name="day47"></a>
-### Day 47: February 16, 2018 
+<a name="day35"></a>
+### Day 35: August 20, 2018 
 
 **Today's Progress**: 
+- Jessica continued working on the comments from the app maintainer for her PR for share components.
+- Monthly meeting with so many of our coaches and the main maintainer for the contacts app and Neta. 
+- Arati continued with implementing the loading page for when contacts are imported.
 
 **Thoughts** 
+It was impressive seeing so many of our coaches and mentors  gathered together for the call.
 
-**Link(s) to work**:  
 ***
 [Back to Top](#top) 
 
