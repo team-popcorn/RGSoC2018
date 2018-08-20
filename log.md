@@ -24,7 +24,7 @@
 | [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn| [Day 29](#day29)    |Sweaty Cornflower Ice-Cream Popcorn|
 | [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 31](#day31)    |Rugby playing Brown Burger Popcorn|
 | [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 33](#day33)    |Curling Green-brown Chicken wings Popcorn |
-| [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn | [Day 47](#day47)    |  |
+| [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn | [Day 47](#day47)    |[Agile Meeting 6](#agile6)      |Agile Meeeting #6    |
 | [Day 48](#day48)    | | [Day 49](#day49)    |  |
 | [Day 50](#day50)    | | [Day 51](#day51)    |  |
 | [Day 52](#day52)    | | [Day 53](#day53)    |  |
@@ -880,14 +880,48 @@ We are excited to have our coaches over to  have a mid-summer-of-code celebratio
 ***
 [Back to Top](#top) 
 
-<a name="day46"></a>
-### Day 46: February 15, 2018 
+<a name="agile6"></a>
+### Agile Meeting 6: August 20, 2018 
 
-**Today's Progress**:  
+**What we did this week**: 
+- Continued on our components
+- Had a meeting with Bart and Markus about naming and structuring
+- Had a social meet up
+- Docker knowledge share session
 
-**Thoughts** 
+**What was good** 
+- Social meetup :)
+- Knowledge share session
+- Working on our own branches on the actually repo
+- PR for code reviews
+- seeing different opinions being discussed
+- Critical thinking and forming our own opinions
+- That we can have impact, being asked our opinions
+- Get detailed feedback on commits
+- Having Bart available a lot to talk to online 
+- hearing all the coaches thoughts on the summer so far
 
-**Link(s) to work**:  
+**What was not so good**
+- Missed Arati when she was absent
+- Feeling overwhelmed with size of task ahead, tasks feel open ended
+- Being perfectionist, never feeling “done”
+
+**Blockers**
+- see above
+
+**Coaches feedback***
+- Your awesome :)
+- great to see people in a social context
+
+*solutions
+- setting deadlines (perhaps for each other)
+- break tasks up
+
+**What we will do next week***
+- Nextcloud conference
+- meet Bart in person to discuss progress
+- meet with Jan about Styling and CSS
+
 ***
 [Back to Top](#top) 
 
