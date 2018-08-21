@@ -25,7 +25,7 @@
 | [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 31](#day31)    |Rugby playing Brown Burger Popcorn|
 | [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 33](#day33)    |Curling Green-brown Chicken wings Popcorn |
 | [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn |[Agile Meeting 6](#agile6) |Agile Meeeting #6    |
-| [Day 35](#day35)    |Pink Spaghetti Popcorn| [Day 49](#day49)    |  |
+| [Day 35](#day35)    |Pink Spaghetti Popcorn| [Day 36](#day36)    |Inspirational Yellow Pizza Popcorn|
 | [Day 50](#day50)    | | [Day 51](#day51)    |  |
 | [Day 52](#day52)    | | [Day 53](#day53)    |  |
 | [Day 54](#day54)    | | [Day 55](#day55)    |  |
@@ -939,14 +939,15 @@ It was impressive seeing so many of our coaches and mentors  gathered together f
 ***
 [Back to Top](#top) 
 
-<a name="day48"></a>
-### Day 48: February 17, 2018 
+<a name="day36"></a>
+### Day 36: August 21, 2018 
 
 **Today's Progress**: 
+- Jessica: Added debounce function for requests for Asynchronous Multiselect. Fixed styling for Multiselect when no query has been inputed. Fixed filter function so that share addressbook now works correctly. 
+- Arati: set up a basic import screen and started researching how to show the progress of the import.
 
 **Thoughts** 
-
-**Link(s) to work**: 
+We have been doing the RGSOC long enough to start having some perspective on helpful/unhelpful practices.
 ***
 [Back to Top](#top) 
 
