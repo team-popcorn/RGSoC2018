@@ -26,7 +26,7 @@
 | [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 33](#day33)    |Curling Green-brown Chicken wings Popcorn |
 | [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn |[Agile Meeting 6](#agile6) |Agile Meeeting #6    |
 | [Day 35](#day35)    |Flaming Pink Spaghetti Popcorn| [Day 36](#day36)    |Inspirational Yellow Pizza Popcorn|
-| [Day 50](#day50)    | | [Day 51](#day51)    |  |
+| [Day 37](#day37)    |Memorable Blue Chai Popcorn| [Day 51](#day51)    |  |
 | [Day 52](#day52)    | | [Day 53](#day53)    |  |
 | [Day 54](#day54)    | | [Day 55](#day55)    |  |
 | [Day 56](#day56)    | | [Day 57](#day57)|  |
@@ -951,14 +951,15 @@ We have been doing the RGSOC long enough to start having some perspective on hel
 ***
 [Back to Top](#top) 
 
-<a name="day49"></a>
-### Day 49: February 18, 2018 
+<a name="day37"></a>
+### Day 37: August 22, 2018 
 
 **Today's Progress**: 
+- Jessica: Worked through feedback for improving code from yesterday and starting setting up the development environment for working at the conference tomorrow. 
+- Arati: Sat with coach Markus and went through ContactService from the old app to figure out how to show importing of contacts in the new app.
 
 **Thoughts** 
-
-**Link(s) to work**: 
+It's interesting asking coaches about their first conference experience and imagining them as newbies!
 ***
 [Back to Top](#top) 
 
