@@ -26,7 +26,7 @@
 | [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 33](#day33)    |Curling Green-brown Chicken wings Popcorn |
 | [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn |[Agile Meeting 6](#agile6) |Agile Meeeting #6    |
 | [Day 35](#day35)    |Flaming Pink Spaghetti Popcorn| [Day 36](#day36)    |Inspirational Yellow Pizza Popcorn|
-| [Day 37](#day37)    |Memorable Blue Chai Popcorn| [Day 51](#day51)    |  |
+| [Day 37](#day37)    |Memorable Blue Chai Popcorn| [Day 38](#day38)    |Productive Orange Java Popcorn|
 | [Day 52](#day52)    | | [Day 53](#day53)    |  |
 | [Day 54](#day54)    | | [Day 55](#day55)    |  |
 | [Day 56](#day56)    | | [Day 57](#day57)|  |
@@ -963,14 +963,16 @@ It's interesting asking coaches about their first conference experience and imag
 ***
 [Back to Top](#top) 
 
-<a name="day50"></a>
-### Day 50: February 19, 2018 
+<a name="day38"></a>
+### Day 38: August 24, 2018 
 
 **Today's Progress**: 
+- First day of Nextcloud conference!
+- Jessica: Trouble shooting Docker issues in preparation for the workshop. 
+- Arati: Sat with App Maintainer and went through the creation of importState store.
 
 **Thoughts** 
-
-**Link(s) to work**:  
+Talking in person with our mentor is so much better than screen sharing! 
 ***
 [Back to Top](#top) 
 
