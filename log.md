@@ -27,7 +27,7 @@
 | [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn |[Agile Meeting 6](#agile6) |Agile Meeeting #6    |
 | [Day 35](#day35)    |Flaming Pink Spaghetti Popcorn| [Day 36](#day36)    |Inspirational Yellow Pizza Popcorn|
 | [Day 37](#day37)    |Memorable Blue Chai Popcorn| [Day 38](#day38)    |Productive Orange Java Popcorn|
-| [Day 52](#day52)    | | [Day 53](#day53)    |  |
+| [Day 39](#day39)    |Lemon Chiffon erratic Cookie Dough Popcorn | [Day 53](#day53)    |  |
 | [Day 54](#day54)    | | [Day 55](#day55)    |  |
 | [Day 56](#day56)    | | [Day 57](#day57)|  |
 | [Day 58](#day58)    | | [Day 59](#day59)    |  |
@@ -976,14 +976,29 @@ Talking in person with our mentor is so much better than screen sharing!
 ***
 [Back to Top](#top) 
 
-<a name="day51"></a>
-### Day 51: February 20, 2018 
+<a name="day39"></a>
+### Day 39: August 27, 2018 
+
+This weekend we were at the Nextcloud Conference! It was a great opportunity to learn more about Nextcloud and meet other contributors ^^
+Jessica gave a introductory workshop to contributing to Nextcloud workshop and a lighting talk on useful Git commands for contributing to Open source. You can watch her talk here and checkout the slides using the links below. 
 
 **Today's Progress**: 
+- Jessica worked on the Popover menu
+- Arati added functionality to import screen, fleshed out the parse VCF function and  added real progress value for progress bar and contact name as it gets imported
+- We had our weekly agile meeting
 
 **Thoughts** 
 
+It has been a great opportunity to reconnect with the whole Nextcloud community and refresh our passion and see the effect our work has! Today we were back in the office as they have an enterprise day but tomorrow we will go back to the Hack space so we can work more closely with the App maintainer!
+
 **Link(s) to work**:  
+
+Lighting Talk: https://www.youtube.com/watch?v=zKk2NwXiQu4&feature=youtu.be&t=4h58m22s 
+Slides: https://speakerdeck.com/sleepypioneer/my-git-journey-to-contributing-to-nextcloud
+
+Workshop Repo for contributing to Nextcloud https://github.com/sleepypioneer/ContributingToNextcloudIntroductoryWorkshop
+
+Talk from last years RGSoC team Codeaholics! https://youtu.be/zKk2NwXiQu4?t=7h8m11s
 ***
 [Back to Top](#top) 
 
