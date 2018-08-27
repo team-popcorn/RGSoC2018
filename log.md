@@ -27,7 +27,7 @@
 | [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn |[Agile Meeting 6](#agile6) |Agile Meeeting #6    |
 | [Day 35](#day35)    |Flaming Pink Spaghetti Popcorn| [Day 36](#day36)    |Inspirational Yellow Pizza Popcorn|
 | [Day 37](#day37)    |Memorable Blue Chai Popcorn| [Day 38](#day38)    |Productive Orange Java Popcorn|
-| [Day 39](#day39)    |Lemon Chiffon erratic Cookie Dough Popcorn | [Day 53](#day53)    |  |
+| [Day 39](#day39)    |Lemon Chiffon erratic Cookie Dough Popcorn | [Agile Meeting 7](#agile7)    |Agile Meeting #7|
 | [Day 54](#day54)    | | [Day 55](#day55)    |  |
 | [Day 56](#day56)    | | [Day 57](#day57)|  |
 | [Day 58](#day58)    | | [Day 59](#day59)    |  |
@@ -1002,14 +1002,42 @@ Talk from last years RGSoC team Codeaholics! https://youtu.be/zKk2NwXiQu4?t=7h8m
 ***
 [Back to Top](#top) 
 
-<a name="day52"></a>
-### Day 52: February 21, 2018 
+<a name="agile7"></a>
+### Agile Meeting 7: August 27, 2018 
 
-**Today's Progress**: 
+**What we did this week**: 
+- on team updates: https://teams.railsgirlssummerofcode.org/teams/801
 
-**Thoughts** 
+**What was good** 
+- working through importStore in person with App Maintainer
+- meeting contributors at Nextcloud conf
+- getting a deeper understanding of what Nextcloud is from conference time
+- Docker experience from setting it up on own laptop
+- getting to see how Jessica works and being inspired to improve work habits based on that
 
-**Link(s) to work**:  
+**What was not so good**
+- exhausting weekend
+- felt disconnected from some of the talks that seemed very detailed and specific
+
+**Blockers**
+- not using Vue dev tool
+- relying too much on search rather than looking through open tabs in VSC
+- started a new component before previous one was done because of not realising it wasn't finished (unclarity); not realising more structure would speed up progress
+- issues with Docker on Thursday
+- working on too many different issues in a single branch-—would have been better to cherry pick things out
+
+**Coaches feedback***
+- seeing Lora at the conference. We wish her much success in this new chapter of her life and are looking forward to seeing where it takes her!
+
+*solutions
+- we will ask App Maintainer for a meeting with the very specific purpose of getting issues
+- to make it easier for him we could list out the specifications as we see them and ask him if the list is complete or not
+
+**What we will do next week***
+- Nextcloud conference
+- Tuesday mission: breaking things down into tasks
+- meet Jan and discuss styling (and accessibility)
+
 ***
 [Back to Top](#top) 
 
