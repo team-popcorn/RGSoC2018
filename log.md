@@ -28,7 +28,7 @@
 | [Day 35](#day35)    |Flaming Pink Spaghetti Popcorn| [Day 36](#day36)    |Inspirational Yellow Pizza Popcorn|
 | [Day 37](#day37)    |Memorable Blue Chai Popcorn| [Day 38](#day38)    |Productive Orange Java Popcorn|
 | [Day 39](#day39)    |Lemon Chiffon erratic Cookie Dough Popcorn | [Agile Meeting 7](#agile7)    |Agile Meeting #7|
-| [Day 54](#day54)    | | [Day 55](#day55)    |  |
+| [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn | [Day 55](#day55)    |  |
 | [Day 56](#day56)    | | [Day 57](#day57)|  |
 | [Day 58](#day58)    | | [Day 59](#day59)    |  |
 | [Day 60](#day60)    | | [Day 61](#day61)    |  |
@@ -1041,14 +1041,19 @@ Talk from last years RGSoC team Codeaholics! https://youtu.be/zKk2NwXiQu4?t=7h8m
 ***
 [Back to Top](#top) 
 
-<a name="day53"></a>
-### Day 53: February 22, 2018 
+<a name="day40"></a>
+### Day 40: August 28, 2018 
 
-**Today's Progress**:  
+**Today's Progress**: 
+
+- Met with the App maintainer to discuss the roadmap for September and timeline before releasing Beta 1
+- Arati worked with the App maintainer to complete her import component and get it merged
+- Jessica had her share addressbook branch merged with the master vue branch and continued on the popovermenu
+- We both attended the open source diversity meetup 💚
 
 **Thoughts** 
 
-**Link(s) to work**: 
+It's been really awesome to start making a roadmap for the last month of RGSoC. It looks like we will release the Beta 1 of the app in our last week :) Hurrah!! 🎉
 ***
 [Back to Top](#top) 
 
