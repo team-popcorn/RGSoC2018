@@ -28,8 +28,8 @@
 | [Day 35](#day35)    |Flaming Pink Spaghetti Popcorn| [Day 36](#day36)    |Inspirational Yellow Pizza Popcorn|
 | [Day 37](#day37)    |Memorable Blue Chai Popcorn| [Day 38](#day38)    |Productive Orange Java Popcorn|
 | [Day 39](#day39)    |Lemon Chiffon erratic Cookie Dough Popcorn | [Agile Meeting 7](#agile7)    |Agile Meeting #7|
-| [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn | [Day 55](#day55)    |  |
-| [Day 56](#day56)    | | [Day 57](#day57)|  |
+| [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn | [Day 41](#day41)    |Deep Sky Blue Tranquil M&M's Popcorn  |
+| [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn | [Day 57](#day57)|  |
 | [Day 58](#day58)    | | [Day 59](#day59)    |  |
 | [Day 60](#day60)    | | [Day 61](#day61)    |  |
 | [Day 62](#day62)    | | [Day 63](#day63)    |  |
@@ -1057,25 +1057,33 @@ It's been really awesome to start making a roadmap for the last month of RGSoC. 
 ***
 [Back to Top](#top) 
 
-<a name="day54"></a>
-### Day 54: February 23, 2018 
+<a name="day41"></a>
+### Day 41: August 29, 2018 
 
 **Today's Progress**: 
 
+- Today we were back at the Nextcloud conference Hackweek to continue working with the App maintainer.
+-  Arati made a Pull request for vue-import-progress merged! Fixing importDestination so that the correct address book is imported to, displaying the name in the import screen
+- Jessica started working on the styling issues for the share addressbook
+- we also started to create issues as part of the roadmap for our last month of RGSoC
+
 **Thoughts** 
 
-**Link(s) to work**:  
+It's been really great to be able to work so close with the App Maintainer John and get in person help. Talking online can get confusing at time and this time together has been invaluable :purple_heart:
 ***
 [Back to Top](#top) 
 
-<a name="day55"></a>
-### Day 55: February 24, 2018 
+<a name="day42"></a>
+### Day 42: August 30, 2018 
 
 **Today's Progress**: 
 
+- Today we were back at the Nextcloud conference Hackweek to continue working with the App maintainer.
+-  We continued with our list of issues and went through some of the finer points of how the app works in terms of using the virtual DOM.
+
 **Thoughts** 
 
-**Link(s) to work**:  
+It was the last day of the conference and time to say bye to John our App maintainer and the other contributors. Still we look forward and hope to be invited to the next Nextcloud hackweek :blue_heart:
 ***
 [Back to Top](#top) 
 
