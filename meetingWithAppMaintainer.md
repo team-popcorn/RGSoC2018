@@ -21,3 +21,10 @@
     - Comments more on PRs than on individual commits
     - PR - change Addressbook & AddressBook to match just need to decide which way
     - kebab case or camel case for css sheets
+    
+#### Testing
+    - Unit tests (for every function)
+    - Vcard tests (invalid vs valid, testing all actions)
+    - Integration tests (emulate user using the app)
+    - We will a date for a screen sharing session to show an example of testing
+    
