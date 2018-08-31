@@ -29,7 +29,7 @@
 | [Day 37](#day37)    |Memorable Blue Chai Popcorn| [Day 38](#day38)    |Productive Orange Java Popcorn|
 | [Day 39](#day39)    |Lemon Chiffon erratic Cookie Dough Popcorn | [Agile Meeting 7](#agile7)    |Agile Meeting #7|
 | [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn | [Day 41](#day41)    |Deep Sky Blue Tranquil M&M's Popcorn  |
-| [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn | [Day 57](#day57)|  |
+| [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn| [Day 43](#day43)| Lime Green glamorous Praline Pecan Popcorn|
 | [Day 58](#day58)    | | [Day 59](#day59)    |  |
 | [Day 60](#day60)    | | [Day 61](#day61)    |  |
 | [Day 62](#day62)    | | [Day 63](#day63)    |  |
@@ -1087,14 +1087,18 @@ It was the last day of the conference and time to say bye to John our App mainta
 ***
 [Back to Top](#top) 
 
-<a name="day56"></a>
-### Day 56: February 25, 2018 
+<a name="day43"></a>
+### Day 43: August 31, 2018 
 
 **Today's Progress**: 
+- Jessica worked on the enable function in the popover menu as well as the rename function. (issue #614)
+- She also fixed the styling issues on share addressbook and requested feedback via PR #615 - partial fix for issue #600
+- Arati worked on updating her branch vue-new-addressbook so that it incorporates the changes she made with the App maintainer during the conference and continue with issue #605
 
 **Thoughts** 
 
-**Link(s) to work**:  
+Today we were back in the office at Absolventa, it was nice to catch up with our coaches there and swap conference stories (Kaja was at Euruko at the weekend) With the roadmap now in place and the deadline looming we have plenty to get on with! :)
+ 
 ***
 [Back to Top](#top) 
 
