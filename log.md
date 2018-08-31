@@ -1097,7 +1097,7 @@ It was the last day of the conference and time to say bye to John our App mainta
 
 **Thoughts** 
 
-Today we were back in the office at Absolventa, it was nice to catch up with our coaches there and swap conference stories (Kaja was at Euruko at the weekend) With the roadmap now in place and the deadline looming we have plenty to get on with! :)
+Today we were back in the office at Absolventa, it was nice to catch up with our coaches there and swap conference stories (Kaja was at Euruko at the weekend) With the roadmap now in place and the deadline looming we have plenty to get on with! :smile:
  
 ***
 [Back to Top](#top) 
