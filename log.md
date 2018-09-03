@@ -30,7 +30,7 @@
 | [Day 39](#day39)    |Lemon Chiffon erratic Cookie Dough Popcorn | [Agile Meeting 7](#agile7)    |Agile Meeting #7|
 | [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn | [Day 41](#day41)    |Deep Sky Blue Tranquil M&M's Popcorn  |
 | [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn| [Day 43](#day43)| Lime Green glamorous Praline Pecan Popcorn|
-| [Day 58](#day58)    | | [Day 59](#day59)    |  |
+| [Agile Meeting 4](#agile8) | Agile Meeeting #8  [Day 59](#day59)    |  |
 | [Day 60](#day60)    | | [Day 61](#day61)    |  |
 | [Day 62](#day62)    | | [Day 63](#day63)    |  |
 | [Day 64](#day64)    | | [Day 65](#day65)    |  |
@@ -1102,14 +1102,43 @@ Today we were back in the office at Absolventa, it was nice to catch up with our
 ***
 [Back to Top](#top) 
 
-<a name="day57"></a>
-### Day 57: February 26, 2018 
+<a name="agile8"></a>
+### Agile Meeting 8: September 3, 2018 
 
-**Today's Progress**: 
+**What we did this week**: 
+- attending the Nextcloud conference
+- met with App Maintainer in person
+- worked on problems we were having & merged 
+- made roadmap and set dates for milestones
+- created issues and assigned them to our project
 
-**Thoughts** 
+**What was good** 
+- Working in person with App maintainer has been fantastic, not only helpful for our programming but also socially enjoyable
+- working more with Git and feeling more confident with it
+- Having concrete plan in bite size pieces (individual issues)
+- Satisfaction of having our work merged
+- This was also a direct result of breaking the work up in to smaller issues and being able to make more PR
+- feeling more comfortable & familiarity with the work flow
 
-**Link(s) to work**:  
+**What was not so good**
+- long week was tiring
+- feeling a bit of exhaustion
+- starting to feel the pressure of the looming deadline
+
+**Blockers**
+- feeling slowed down by tiredness
+
+*solution*
+- drink lots of water and take breaks
+- If not working productively on one issue try working or researching something else (switching focus)
+
+**What we will do next week***
+- Continue on our list of issues
+- Arati issue #605
+- Jessica issues #614 & #600
+- Plan for pair programming on Avatar issue (2hrs 4-6pm 25min slots with break half way through)
+- Friday this week
+ 
 ***
 [Back to Top](#top) 
 
