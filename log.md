@@ -30,7 +30,7 @@
 | [Day 39](#day39)    |Lemon Chiffon erratic Cookie Dough Popcorn | [Agile Meeting 7](#agile7)    |Agile Meeting #7|
 | [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn | [Day 41](#day41)    |Deep Sky Blue Tranquil M&M's Popcorn  |
 | [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn| [Day 43](#day43)| Lime Green glamorous Praline Pecan Popcorn|
-| [Agile Meeting 4](#agile8) | Agile Meeeting #8 | [Day 59](#day59)    |  |
+| [Agile Meeting 4](#agile8) | Agile Meeeting #8 | [Day 44](#day44)    |Revolutionary Blue Pizza Popcorn|
 | [Day 60](#day60)    | | [Day 61](#day61)    |  |
 | [Day 62](#day62)    | | [Day 63](#day63)    |  |
 | [Day 64](#day64)    | | [Day 65](#day65)    |  |
@@ -1142,14 +1142,16 @@ Today we were back in the office at Absolventa, it was nice to catch up with our
 ***
 [Back to Top](#top) 
 
-<a name="day58"></a>
-### Day 58: February 27, 2018 
+<a name="day44"></a>
+### Day 44: September 03, 2018 
 
-**Today's Progress**:  
+**Today's Progress**: 
+- Jessica worked on the rename function in the popover menu for issue #600 and added a fix for issue #615 as per review.
+- Agile Meeting without coaches.
+- Arati worked on form validation with regex for issue 605 and design fixes.
 
 **Thoughts** 
-
-**Link(s) to work**: 
+Tired!
 ***
 [Back to Top](#top) 
 
