@@ -31,7 +31,7 @@
 | [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn | [Day 41](#day41)    |Deep Sky Blue Tranquil M&M's Popcorn  |
 | [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn| [Day 43](#day43)| Lime Green glamorous Praline Pecan Popcorn|
 | [Agile Meeting 4](#agile8) | Agile Meeeting #8 | [Day 44](#day44)    |Revolutionary Blue Pizza Popcorn|
-| [Day 60](#day60)    | | [Day 61](#day61)    |  |
+| [Day 45](#day45)    |Peach Sunny Salad Popcorn | [Day 61](#day61)    |  |
 | [Day 62](#day62)    | | [Day 63](#day63)    |  |
 | [Day 64](#day64)    | | [Day 65](#day65)    |  |
 | [Day 66](#day66)    | | [Day 67](#day67)    |  |
@@ -1103,7 +1103,7 @@ Today we were back in the office at Absolventa, it was nice to catch up with our
 [Back to Top](#top) 
 
 <a name="agile8"></a>
-### Agile Meeting 8: September 3, 2018 
+### Agile Meeting 8: September 03, 2018 
 
 **What we did this week**: 
 - attending the Nextcloud conference
@@ -1155,14 +1155,20 @@ Tired!
 ***
 [Back to Top](#top) 
 
-<a name="day59"></a>
-### Day 59: February 28, 2018 
+<a name="day45"></a>
+### Day 45: September 04, 2018 
 
 **Today's Progress**: 
+Today Arati was out of the office to compensate for time spent at the Nextcloud conference.
+- I worked on my PR #618 for fixing issue #614 the popover menu. Close to a nice working solution 💪
+- I also joined the remote call with the other members of RGSoC 📞
 
 **Thoughts** 
+It was really nice to see and talk with Anna and some of the other RGSoC participants and share our experiences. I also got quite a bit of coding done today and managed to untangle in my mind how to work with the WebDav (still not completely but I understand it much better!) 🎉
 
-**Link(s) to work**:  
+**Link(s) to work**: 
+https://github.com/nextcloud/contacts/pull/618
+
 ***
 [Back to Top](#top) 
 
