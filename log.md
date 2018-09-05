@@ -31,7 +31,7 @@
 | [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn | [Day 41](#day41)    |Deep Sky Blue Tranquil M&M's Popcorn  |
 | [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn| [Day 43](#day43)| Lime Green glamorous Praline Pecan Popcorn|
 | [Agile Meeting 4](#agile8) | Agile Meeeting #8 | [Day 44](#day44)    |Revolutionary Blue Pizza Popcorn|
-| [Day 45](#day45)    |Peach Sunny Salad Popcorn | [Day 61](#day61)    |  |
+| [Day 45](#day45)    |Peach Sunny Salad Popcorn | [Day 46](#day46)    |Amazing Yellow Ice-Cream Popcorn|
 | [Day 62](#day62)    | | [Day 63](#day63)    |  |
 | [Day 64](#day64)    | | [Day 65](#day65)    |  |
 | [Day 66](#day66)    | | [Day 67](#day67)    |  |
@@ -1173,13 +1173,15 @@ https://github.com/nextcloud/contacts/pull/618
 [Back to Top](#top) 
 
 <a name="day60"></a>
-### Day 60: March 01, 2018 
+### Day 46: September 05, 2018 
 
 **Today's Progress**: 
+* Call with our supervisor.
+* Jessica: Added vue clipboard library to allow users to copy the addressbook url. Continued on popover menu in settings and adjusted as per app maintainer notes.
+* Arati: Made a PR for "add address book" issue (#605) and created a new branch for a new issue, "add close icon for importing" (#606).
 
 **Thoughts** 
-
-**Link(s) to work**: 
+ Troubleshooting with each other about issues we were working on was very enjoyable and helpful! 
 ***
 [Back to Top](#top) 
 
