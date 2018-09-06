@@ -32,7 +32,7 @@
 | [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn| [Day 43](#day43)| Lime Green glamorous Praline Pecan Popcorn|
 | [Agile Meeting 4](#agile8) | Agile Meeeting #8 | [Day 44](#day44)    |Revolutionary Blue Pizza Popcorn|
 | [Day 45](#day45)    |Peach Sunny Salad Popcorn | [Day 46](#day46)    |Amazing Yellow Ice-Cream Popcorn|
-| [Day 62](#day62)    | | [Day 63](#day63)    |  |
+| [Day 47](#day47)    |Exciting PyLadies-Red Weetabix Popcorn| [Day 63](#day63)    |  |
 | [Day 64](#day64)    | | [Day 65](#day65)    |  |
 | [Day 66](#day66)    | | [Day 67](#day67)    |  |
 | [Day 68](#day68)    | | [Day 69](#day69)    |  |
@@ -1172,7 +1172,7 @@ https://github.com/nextcloud/contacts/pull/618
 ***
 [Back to Top](#top) 
 
-<a name="day60"></a>
+<a name="day46"></a>
 ### Day 46: September 05, 2018 
 
 **Today's Progress**: 
@@ -1185,14 +1185,16 @@ https://github.com/nextcloud/contacts/pull/618
 ***
 [Back to Top](#top) 
 
-<a name="day61"></a>
-### Day 61: March 02, 2018 
+<a name="day47"></a>
+### Day 47: September 06, 2018 
 
-**Today's Progress**:
+**Today's Progress**: 
+* Pair programming--working on Avatar management (#603)
+* Jessica: Finished review points & closed PR #618.
+* Arati: Added close icon to import screen and working on making the screen disappear on click.
 
-**Thoughts**  
-
-**Link(s) to work**:  
+**Thoughts** 
+Our first pair programming session was productive and we have a good roadmap set up for the duration of our work on the issue we started.
 ***
 [Back to Top](#top) 
 
