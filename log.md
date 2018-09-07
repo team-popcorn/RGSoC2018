@@ -1203,7 +1203,7 @@ Our first pair programming session was productive and we have a good roadmap set
 
 Today's Progress: 
 * Jessica: Worked on blog post, opened new branch for renaming of addressbook, made a couple of code reviews and looked at the datetime inputs.
-* Arati: Worked on blog post, figuring out conference workshops and general sign up process.
+* Arati: Worked on blog post, figuring out conference workshops and general sign up process and my first code review!
 
 **Thoughts**  
 Thinking back on the past few months while writing the blog post his a reminder of how far we have come and how intense this summer has been.
