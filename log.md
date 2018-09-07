@@ -32,7 +32,7 @@
 | [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn| [Day 43](#day43)| Lime Green glamorous Praline Pecan Popcorn|
 | [Agile Meeting 4](#agile8) | Agile Meeeting #8 | [Day 44](#day44)    |Revolutionary Blue Pizza Popcorn|
 | [Day 45](#day45)    |Peach Sunny Salad Popcorn | [Day 46](#day46)    |Amazing Yellow Ice-Cream Popcorn|
-| [Day 47](#day47)    |Exciting PyLadies-Red Weetabix Popcorn| [Day 63](#day63)    |  |
+| [Day 47](#day47)    |Exciting PyLadies-Red Weetabix Popcorn| [Day 48](#day48)    |Extreme Blue Guava Popcorn|
 | [Day 64](#day64)    | | [Day 65](#day65)    |  |
 | [Day 66](#day66)    | | [Day 67](#day67)    |  |
 | [Day 68](#day68)    | | [Day 69](#day69)    |  |
@@ -1198,14 +1198,15 @@ Our first pair programming session was productive and we have a good roadmap set
 ***
 [Back to Top](#top) 
 
-<a name="day62"></a>
-### Day 62: March 03, 2018 
+<a name="day48"></a>
+### Day 48: September 07, 2018 
 
-**Today's Progress**:   
+Today's Progress: 
+* Jessica: Worked on blog post, opened new branch for renaming of addressbook, made a couple of code reviews and looked at the datetime inputs.
+* Arati: Worked on blog post, figuring out conference workshops and general sign up process.
 
-**Thoughts** 
-
-**Link(s) to work**:  
+**Thoughts**  
+Thinking back on the past few months while writing the blog post his a reminder of how far we have come and how intense this summer has been.
 ***
 [Back to Top](#top) 
 
