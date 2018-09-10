@@ -30,10 +30,10 @@
 | [Day 39](#day39)    |Lemon Chiffon erratic Cookie Dough Popcorn | [Agile Meeting 7](#agile7)    |Agile Meeting #7|
 | [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn | [Day 41](#day41)    |Deep Sky Blue Tranquil M&M's Popcorn  |
 | [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn| [Day 43](#day43)| Lime Green glamorous Praline Pecan Popcorn|
-| [Agile Meeting 4](#agile8) | Agile Meeeting #8 | [Day 44](#day44)    |Revolutionary Blue Pizza Popcorn|
+| [Agile Meeting 8](#agile8) | Agile Meeeting #8 | [Day 44](#day44)    |Revolutionary Blue Pizza Popcorn|
 | [Day 45](#day45)    |Peach Sunny Salad Popcorn | [Day 46](#day46)    |Amazing Yellow Ice-Cream Popcorn|
 | [Day 47](#day47)    |Exciting PyLadies-Red Weetabix Popcorn| [Day 48](#day48)    |Extreme Blue Guava Popcorn|
-| [Day 64](#day64)    | | [Day 65](#day65)    |  |
+| [Day 64](#day64)    | | [Agile Meeting 9](#agile9)    | Agile Meeeting #9 |
 | [Day 66](#day66)    | | [Day 67](#day67)    |  |
 | [Day 68](#day68)    | | [Day 69](#day69)    |  |
 | [Day 70](#day70)    | | [Day 71](#day71)    |  |
@@ -1221,14 +1221,45 @@ Thinking back on the past few months while writing the blog post his a reminder 
 ***
 [Back to Top](#top) 
 
-<a name="day64"></a>
-### Day 64: March 05, 2018 
+<a name="agile9"></a>
+### Agile Meeting 9: September 10, 2018 
 
-**Today's Progress**: 
+**What we did this week**: 
+- on team updates: https://teams.railsgirlssummerofcode.org/teams/801
 
-**Thoughts** 
+**What was good** 
+- proper pair programming session
+- reviewing code, first official time for both of us! 
+- conference ticket
+- less time for organisation/communication channels
+- more regular PRs and getting feedback that way, through the "official" channels
+- reflect on the summer via writing the blog post
+- remote meeting
 
-**Link(s) to work**:  
+**What was not so good**
+- tiredness at the start of the week
+- long time switching contexts, settling in
+
+**Blockers**
+- blog post taking longer than desired
+- not being entirely clear on specifications weighs on the back of the mind and slows down progress
+
+**Coaches feedback***
+- Thanks to App Maintainer for asking for review. It's a great learning tool!
+
+*solutions
+- show specifications upfront before starting to code and saying this is my understanding of it; another option is to just do it even if roughly/do a partial fix and wait for feedback and fix it if needed afterwards (this is possible with smaller issues)
+- don't overthink the blog post
+
+**What we will do next week***
+- finish blog post
+- more pair programming
+- address requests for changes on PR
+- a day away for each of us (plus coach absences)
+- try for a call with App Maintainer on Thursday, ask which issues HAVE to be fixed for the beta release and which ones would just be nice to have fixed
+- travel!
+
+***
 ***
 [Back to Top](#top) 
 
