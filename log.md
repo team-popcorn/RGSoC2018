@@ -33,7 +33,7 @@
 | [Agile Meeting 8](#agile8) | Agile Meeeting #8 | [Day 44](#day44)    |Revolutionary Blue Pizza Popcorn|
 | [Day 45](#day45)    |Peach Sunny Salad Popcorn | [Day 46](#day46)    |Amazing Yellow Ice-Cream Popcorn|
 | [Day 47](#day47)    |Exciting PyLadies-Red Weetabix Popcorn| [Day 48](#day48)    |Extreme Blue Guava Popcorn|
-| [Day 64](#day64)    | | [Agile Meeting 9](#agile9)    | Agile Meeeting #9 |
+| [Day 49](#day49)    |Blue expressive Pineapple Popcorn | [Agile Meeting 9](#agile9)    | Agile Meeeting #9 |
 | [Day 66](#day66)    | | [Day 67](#day67)    |  |
 | [Day 68](#day68)    | | [Day 69](#day69)    |  |
 | [Day 70](#day70)    | | [Day 71](#day71)    |  |
@@ -1210,14 +1210,17 @@ Thinking back on the past few months while writing the blog post his a reminder 
 ***
 [Back to Top](#top) 
 
-<a name="day63"></a>
-### Day 63: March 04, 2018 
+<a name="day49"></a>
+### Day 49: September 10, 2018 
 
 **Today's Progress**: 
+- Jessica worked on moving the renaming input to the popover menu #622 and checks for readonly addressbooks #623.
+- Arati continued on her part of the blog post and started on a second code review!
+- We had our weekly agile meeting with coach Camila
 
 **Thoughts** 
-
-**Link(s) to work**:  
+It's exciting and nerve racking to think we only have 3 weeks left after this one! 0.o Time has flown by and looking back while we write our blog posts we have achieved so much with the help and support of our coaches, supervisor and App Mantainer ❤️
+ 
 ***
 [Back to Top](#top) 
 
