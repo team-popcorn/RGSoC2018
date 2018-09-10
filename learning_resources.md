@@ -11,6 +11,7 @@
 - https://flaviocopes.com/vue-developer-roadmap/
 - https://vuemastery.com
 - https://scrimba.com
+- https://vuejs.org/v2/guide/components-custom-events.html#sync-Modifier
 
 
 **Agile**
