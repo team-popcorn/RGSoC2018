@@ -13,6 +13,11 @@
 - https://scrimba.com
 - https://vuejs.org/v2/guide/components-custom-events.html#sync-Modifier
 
+**External vue packages**
+https://momentjs.com/#multiple-locale-support
+https://vue-multiselect.js.org/
+https://mengxiong10.github.io/vue2-datepicker/
+
 
 **Agile**
 - https://github.com/lorabv/awesome-agile-software-development
