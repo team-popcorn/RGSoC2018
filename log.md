@@ -34,8 +34,8 @@
 | [Day 45](#day45)    |Peach Sunny Salad Popcorn | [Day 46](#day46)    |Amazing Yellow Ice-Cream Popcorn|
 | [Day 47](#day47)    |Exciting PyLadies-Red Weetabix Popcorn| [Day 48](#day48)    |Extreme Blue Guava Popcorn|
 | [Day 49](#day49)    |Blue expressive Pineapple Popcorn | [Agile Meeting 9](#agile9)    | Agile Meeeting #9 |
-| [Day 66](#day66)    | | [Day 67](#day67)    |  |
-| [Day 68](#day68)    | | [Day 69](#day69)    |  |
+| [Day 50](#day50)    |Red hot Curry Popcorn  | [Day 51](#day51)    |Blue beautiful Chicken Popcorn  |
+| [Day 52](#day52)    | | [Day 69](#day53)    |  |
 | [Day 70](#day70)    | | [Day 71](#day71)    |  |
 | [Day 72](#day72)    | | [Day 73](#day73)    |  |
 | [Day 74](#day74)    | | [Day 75](#day75)    |  |
@@ -1263,22 +1263,27 @@ It's exciting and nerve racking to think we only have 3 weeks left after this on
 - travel!
 
 ***
-***
 [Back to Top](#top) 
 
-<a name="day65"></a>
-### Day 65: March 06, 2018 
+<a name="day50"></a>
+### Day 50: September 11, 2018 
 
-**Today's Progress**: 
+**Today's Progress**:
+- We sat together and merged our work on the blog post and put it into mark down format ready for submission.
+- Jessica looked at the datetime branch, specifically looking for a solution for displaying the datepicker result. She also created a branch for issue #604 (Avatars in list).
+- Arati started fixing the changes requested for her latest PR.
 
 **Thoughts** 
+It was fun to go through our personal highlights and reminisce about the summer so far ^^
 
 **Link(s) to work**:  
+https://github.com/orgs/nextcloud/projects/11
+
 ***
 [Back to Top](#top) 
 
-<a name="day66"></a>
-### Day 66: March 07, 2018 
+<a name="day51"></a>
+### Day 51: September 12, 2018 
 
 **Today's Progress**: PHP drawing objects and creating PDFs
 
@@ -1288,8 +1293,8 @@ It's exciting and nerve racking to think we only have 3 weeks left after this on
 ***
 [Back to Top](#top)
 
-<a name="day67"></a>
-### Day 67: March 08, 2018 
+<a name="day52"></a>
+### Day 52: September 13, 2018 
 
 **Today's Progress**: 
 
@@ -1299,8 +1304,8 @@ It's exciting and nerve racking to think we only have 3 weeks left after this on
 ***
 [Back to Top](#top) 
 
-<a name="day68"></a>
-### Day 68: March 09, 2018 
+<a name="day53"></a>
+### Day 53: September 14, 2018 
 
 **Today's Progress**: 
 
