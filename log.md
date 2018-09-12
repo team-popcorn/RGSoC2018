@@ -1285,11 +1285,13 @@ https://github.com/orgs/nextcloud/projects/11
 <a name="day51"></a>
 ### Day 51: September 12, 2018 
 
-**Today's Progress**: PHP drawing objects and creating PDFs
+**Today's Progress**:
+- Arati was out of the office today
+- Jessica worked partly on the blog post, checked the App Mantainers work on the Date picker and corrected her work on the avatar in the list. I also had a call with our coach Markus to update him to what we have been doing.
 
-**Thoughts** 
+**Thoughts**
+Again another day thinking about what we have achieved and how little time is left 😮 Today I spent more time reading code and figuring out how it works than I did writing code, which felt refreshingly good to do!
 
-**Link(s) to work**:  
 ***
 [Back to Top](#top)
 
