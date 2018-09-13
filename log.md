@@ -1299,10 +1299,16 @@ Again another day thinking about what we have achieved and how little time is le
 ### Day 52: September 13, 2018 
 
 **Today's Progress**: 
+- Jessica worked on the loading states for the addressbook popovermenu functions
+- We completed our blog post and made the PR to the Summer of Code Repo
+- We continued on our pair programming issue #603
 
-**Thoughts**  
+**Thoughts**
+It was nice to get back to our pair programming issue and continue looking at how we get the file input and save it in the contac. For this week and next week we decided to ask our families for our update titles words. Today is from Jessica's brother who just had a little boy called Jove so his response is quite topical. Tomorrow Jessica will be out of the office as she will go visit her new nephew in the UK :)
 
 **Link(s) to work**: 
+https://github.com/nextcloud/contacts/issues/603
+
 ***
 [Back to Top](#top) 
 
