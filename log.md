@@ -3,39 +3,39 @@
 
 ### Table of contents
 
-| Day                 | Focus                                   | Day                 | Focus                                         |
+| Day                 | Focus                                     | Day                 | Focus                                         |
 |:-------------------:|:----------------------------------------|:-------------------:|:----------------------------------------------|
-| [Day 1](#day1)      | Challenge begins! Los Gehts!            | [Day 2](#day2)      |Awesome Blue Chocolate Ice-cream Popcorn|
-| [Day 3](#day3)      |Happy Green Pizza Popcorn| [Day 4](#day4)      |Sour Purple Banana Popcorn|
-| [Day 5](#day5)      |Smart Blue Chocolate Popcorn| [Agile Meeting 1](#agile1)      |Agile Meeeting #1  |
-| [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn| [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
-| [Day 8](#day8)      |Surf-green, Smiley Pancakes| [Day 9](#day9)    |Spacey Green Apple Popcorn|
-| [Day 10](#day10)    |Playful Yellow Hummus Popcorn| [Agile Meeting 2](#agile2)    |Agile Meeeting #2 |
-| [Day 11](#day11)    |Popcorn picante verde patatas bravas| [Day 12](#day12) | Das aufregende türkise Kaiserschmarrenpopcorn |
-| [Day 13](#day13)    |Das schönes gelben Schnitzelpopcorn | [Day 14](#day14) | Popcorn caramel rouge confit |
-| [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela | [Agile Meeting 3](#agile3)    |Agile Meeeting #3  |
-| [Day 16](#day16)    |Tired Grey Croissant Popcorn| [Day 17](#day17)    |Warm Grey Pizza Popcorn|
-| [Day 18](#day18)    |Nice Grey Pizza Popcorn| [Day 19](#day19)    |Warm Grey Tea Popcorn|
-| [Day 20](#day20)    |Inspired Blue Beetroot Popcorn| [Agile Meeting 4](#agile4) | Agile Meeeting #4 |
+| [Day 1](#day1)      | Challenge begins! Los Gehts!              | [Day 2](#day2)      |Awesome Blue Chocolate Ice-cream Popcorn|
+| [Day 3](#day3)      |Happy Green Pizza Popcorn                  | [Day 4](#day4)      |Sour Purple Banana Popcorn|
+| [Day 5](#day5)      |Smart Blue Chocolate Popcorn               | [Agile Meeting 1](#agile1)      |Agile Meeeting #1  |
+| [Day 6](#day6)      |Clear Gold Franzbrötchen Popcorn           | [Day 7](#day7)      |Orange Moroccan  Couscous Popcorn|
+| [Day 8](#day8)      |Surf-green, Smiley Pancakes                | [Day 9](#day9)    |Spacey Green Apple Popcorn|
+| [Day 10](#day10)    |Playful Yellow Hummus Popcorn              | [Agile Meeting 2](#agile2)    |Agile Meeeting #2 |
+| [Day 11](#day11)    |Popcorn picante verde patatas bravas       | [Day 12](#day12) | Das aufregende türkise Kaiserschmarrenpopcorn |
+| [Day 13](#day13)    |Das schönes gelben Schnitzelpopcorn        | [Day 14](#day14) | Popcorn caramel rouge confit |
+| [Day 15](#day15)    |Pipoca brincalhona de Paçoca Amarela       | [Agile Meeting 3](#agile3)    |Agile Meeeting #3  |
+| [Day 16](#day16)    |Tired Grey Croissant Popcorn               | [Day 17](#day17)    |Warm Grey Pizza Popcorn|
+| [Day 18](#day18)    |Nice Grey Pizza Popcorn                    | [Day 19](#day19)    |Warm Grey Tea Popcorn|
+| [Day 20](#day20)    |Inspired Blue Beetroot Popcorn             | [Agile Meeting 4](#agile4) | Agile Meeeting #4 |
 | [Day 21](#day21)    |Determined #F37572 Pink Grapefruit Popcorn | [Day 22](#day22)| Thankful #0082C9 Kumquat Popcorn |
-| [Day 23](#day23)    |Happy #333333 Bergamont Popcorn | [Day 24](#day24)    |Satisfied #E20074 Lemon Popcorn  |
-| [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn | [Agile Meeting 5](#agile5) | Agile Meeeting #5 |
+| [Day 23](#day23)    |Happy #333333 Bergamont Popcorn            | [Day 24](#day24)    |Satisfied #E20074 Lemon Popcorn  |
+| [Day 25](#day25)    |Relaxed #CC0000 Clementine Popcorn         | [Agile Meeting 5](#agile5) | Agile Meeeting #5 |
 | [Day 26](#day26)    |Königsblau Reggae-Feverish Watermelon Popcorn| [Day 27](#day27)    |Disgusting Light Blue Watermelon Popcorn|
-| [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn| [Day 29](#day29)    |Sweaty Cornflower Ice-Cream Popcorn|
-| [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn| [Day 31](#day31)    |Rugby playing Brown Burger Popcorn|
-| [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn | [Day 33](#day33)    |Curling Green-brown Chicken wings Popcorn |
-| [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn |[Agile Meeting 6](#agile6) |Agile Meeeting #6    |
-| [Day 35](#day35)    |Flaming Pink Spaghetti Popcorn| [Day 36](#day36)    |Inspirational Yellow Pizza Popcorn|
-| [Day 37](#day37)    |Memorable Blue Chai Popcorn| [Day 38](#day38)    |Productive Orange Java Popcorn|
+| [Day 28](#day28)    |Brain-Melting Royal Slushi Popcorn         | [Day 29](#day29)    |Sweaty Cornflower Ice-Cream Popcorn|
+| [Day 30](#day30)    |Celest Crashing Aperolspritz Popcorn       | [Day 31](#day31)    |Rugby playing Brown Burger Popcorn|
+| [Day 32](#day32)    |Climbing Brown Ice Cream Popcorn           | [Day 33](#day33)    |Curling Green-brown Chicken wings Popcorn |
+| [Day 34](#day34)    |Blue Basketball playing Falafel Popcorn    |[Agile Meeting 6](#agile6) |Agile Meeeting #6    |
+| [Day 35](#day35)    |Flaming Pink Spaghetti Popcorn| [Day 36](#day36)|Inspirational Yellow Pizza Popcorn|
+| [Day 37](#day37)    |Memorable Blue Chai Popcorn| [Day 38](#day38)|Productive Orange Java Popcorn|
 | [Day 39](#day39)    |Lemon Chiffon erratic Cookie Dough Popcorn | [Agile Meeting 7](#agile7)    |Agile Meeting #7|
-| [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn | [Day 41](#day41)    |Deep Sky Blue Tranquil M&M's Popcorn  |
-| [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn| [Day 43](#day43)| Lime Green glamorous Praline Pecan Popcorn|
-| [Agile Meeting 8](#agile8) | Agile Meeeting #8 | [Day 44](#day44)    |Revolutionary Blue Pizza Popcorn|
-| [Day 45](#day45)    |Peach Sunny Salad Popcorn | [Day 46](#day46)    |Amazing Yellow Ice-Cream Popcorn|
-| [Day 47](#day47)    |Exciting PyLadies-Red Weetabix Popcorn| [Day 48](#day48)    |Extreme Blue Guava Popcorn|
-| [Day 49](#day49)    |Blue expressive Pineapple Popcorn | [Agile Meeting 9](#agile9)    | Agile Meeeting #9 |
-| [Day 50](#day50)    |Red hot Curry Popcorn  | [Day 51](#day51)    |Blue beautiful Chicken Popcorn  |
-| [Day 52](#day52)    | | [Day 69](#day53)    |  |
+| [Day 40](#day40)    |Dark Goldenrod unwieldy Banana Popcorn     | [Day 41](#day41)    |Deep Sky Blue Tranquil M&M's Popcorn  |
+| [Day 42](#day42)    | Unbecoming Navy Chocolate Chip Popcorn    | [Day 43](#day43)| Lime Green glamorous Praline Pecan Popcorn|
+| [Agile Meeting 8](#agile8) | Agile Meeeting #8                  | [Day 44](#day44)    |Revolutionary Blue Pizza Popcorn|
+| [Day 45](#day45)    |Peach Sunny Salad Popcorn                  | [Day 46](#day46)    |Amazing Yellow Ice-Cream Popcorn|
+| [Day 47](#day47)    |Exciting PyLadies-Red Weetabix Popcorn     | [Day 48](#day48)    |Extreme Blue Guava Popcorn|
+| [Day 49](#day49)    |Blue expressive Pineapple Popcorn          | [Agile Meeting 9](#agile9)    | Agile Meeeting #9 |
+| [Day 50](#day50)    |Red hot Curry Popcorn                      | [Day 51](#day51)    |Blue beautiful Chicken Popcorn  |
+| [Day 52](#day52)    |Blue jovial Pizza Popcorn                  | [Day 53](#day53)    |Green moist eggs Popcorn  |
 | [Day 70](#day70)    | | [Day 71](#day71)    |  |
 | [Day 72](#day72)    | | [Day 73](#day73)    |  |
 | [Day 74](#day74)    | | [Day 75](#day75)    |  |
