@@ -1316,10 +1316,12 @@ https://github.com/nextcloud/contacts/issues/603
 ### Day 53: September 14, 2018 
 
 **Today's Progress**: 
+- Jessica is in a land far far away enjoying family time.
+- Arati was preparing for attending GoTo conference in October 🚀 and fixed changes requested for her latest PR ✅
 
-**Thoughts** 
+**Thoughts**
+RGSOC has given us a lot and I feel incredibly privileged to have the program's support for getting me a ticket to attend an exciting conference like GoTo!
 
-**Link(s) to work**: 
 ***
 [Back to Top](#top) 
 
