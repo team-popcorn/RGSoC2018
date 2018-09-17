@@ -36,7 +36,7 @@
 | [Day 49](#day49)    |Blue expressive Pineapple Popcorn          | [Agile Meeting 9](#agile9)    | Agile Meeeting #9 |
 | [Day 50](#day50)    |Red hot Curry Popcorn                      | [Day 51](#day51)    |Blue beautiful Chicken Popcorn  |
 | [Day 52](#day52)    |Blue jovial Pizza Popcorn                  | [Day 53](#day53)    |Green moist eggs Popcorn  |
-| [Day 54](#day54)    | | [Agile Meeting 10](#agile10)    | Agile Meeeting #10|
+| [Day 54](#day54)    |Stubborn Yellow Tiramisu Popcorn| [Agile Meeting 10](#agile10)    | Agile Meeeting #10|
 | [Day 55](#day55)    | | [Day 56](#day56)    |  |
 | [Day 57](#day57)    | | [Day 58](#day58)    |  |
 | [Day 59](#day59)    | | [Agile Meeting 11](#agile11)    | Agile Meeeting #11|
@@ -1357,12 +1357,12 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 
 <a name="day54"></a>
 ### Day 54: September 17, 2018 
+**Today's Progress**: 
+- Jessica: Worked on the loading state for the elements in the popover menu and added logic for renaming section when popover menu has been closed. #614
+- Arati: Worked on more (newly requested) fixes to my latest PR  and read more about the GoTo schedule and various talks
 
-**Today's Progress**:  
-
-**Thoughts** 
-
-**Link(s) to work**:  
+**Thoughts**
+It was really nice to have a chat with App Maintainer again--it has been too long! 
 ***
 [Back to Top](#top) 
 
