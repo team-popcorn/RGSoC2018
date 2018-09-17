@@ -36,22 +36,12 @@
 | [Day 49](#day49)    |Blue expressive Pineapple Popcorn          | [Agile Meeting 9](#agile9)    | Agile Meeeting #9 |
 | [Day 50](#day50)    |Red hot Curry Popcorn                      | [Day 51](#day51)    |Blue beautiful Chicken Popcorn  |
 | [Day 52](#day52)    |Blue jovial Pizza Popcorn                  | [Day 53](#day53)    |Green moist eggs Popcorn  |
-| [Day 70](#day70)    | | [Day 71](#day71)    |  |
-| [Day 72](#day72)    | | [Day 73](#day73)    |  |
-| [Day 74](#day74)    | | [Day 75](#day75)    |  |
-| [Day 76](#day76)    | | [Day 77](#day77)    |  |
-| [Day 78](#day78)    | | [Day 79](#day79)    |  |
-| [Day 80](#day80)    | | [Day 81](#day81)    |  |
-| [Day 82](#day82)    | | [Day 83](#day83)    |  |
-| [Day 84](#day84)    | | [Day 85](#day85)    |  |
-| [Day 86](#day86)    | | [Day 87](#day87)    |  |
-| [Day 88](#day88)    | | [Day 89](#day89)    |  |
-| [Day 90](#day90)    | | [Day 91](#day91)    |  |
-| [Day 92](#day92)    | | [Day 93](#day93)    |  |
-| [Day 94](#day94)    | | [Day 95](#day95)    |  |
-| [Day 96](#day96)    | | [Day 97](#day97)    |  |
-| [Day 98](#day98)    | | [Day 99](#day99)    |  |
-| [Day 100](#day100)  | Mission complete! (*thoughts & future plans)        
+| [Day 54](#day54)    | | [Agile Meeting 10](#agile10)    | Agile Meeeting #10|
+| [Day 55](#day55)    | | [Day 56](#day56)    |  |
+| [Day 57](#day57)    | | [Day 58](#day58)    |  |
+| [Day 59](#day59)    | | [Agile Meeting 11](#agile11)    | Agile Meeeting #11|
+| [Day 61](#day61)    | | [Day 62](#day62)    |  |
+| [Day 63](#day63)    | | Mission complete! (*thoughts & future plans)        
 
 <a name="day1"></a>
 ### Day 1: July 2, 2018 
@@ -1325,17 +1315,48 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day69"></a>
-### Day 69: March 10, 2018 
+<a name="agile10"></a>
+### Agile Meeting 10: September 17, 2018 
 
-**Today's Progress**: 
+**What we did this week**: 
+- Pair programmed on our avatar management
+- Completed the blog for the end of summer
+- Code reviews
+- Arati got a ticket to GoTo and researched the conference
+- Arati fixed requests from her PR
+- Continued working on components
 
-**Link(s) to work**: 
+**What was good** 
+- News about the conference ticket for Arati! Also being supported by Neta and Ramon to ensure she will get the most from the event
+- Pair programming
+- Having Jessica’s family give us the three words for the updates title, Arati’s will give them for this week
+- Having our work included in the Nextcloud due components NPM package :)
+- Reminiscing about the summer and what we’ve achieved
+
+**What was not so good**
+- Blog post took a long time
+- Missing our appointment with supervisor Neta - we got carried away pair programming :(
+
+**Blockers**
+- Feeling drained and therefore a little less focused and less energetic for Arati
+- Waiting for cdav and webdav
+
+*solutions
+- When we are pair programming have Riot open
+- Set an alarm on our phones/ calendar for meetings
+- Make sure to take breaks
+- Talk with work about switching some hours
+
+**What we will do next week***
+- Talk with App maintainer John about what to focus on this week
+- Set goals to complete our tasks for Beta Release one
+- Have a second meeting at the end of the week to talk about goals for next week
+
 ***
 [Back to Top](#top)
 
-<a name="day70"></a>
-### Day 70: March 11, 2018 
+<a name="day54"></a>
+### Day 54: September 17, 2018 
 
 **Today's Progress**:  
 
@@ -1345,8 +1366,8 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day71"></a>
-### Day 71: March 12, 2018 
+<a name="day55"></a>
+### Day 55: September 18, 2018 
 
 **Today's Progress**: 
 
@@ -1356,8 +1377,8 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day72"></a>
-### Day 72: March 13, 2018 
+<a name="day56"></a>
+### Day 56: September 19, 2018 
 
 **Today's Progress**: 
 
@@ -1367,8 +1388,8 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day73"></a>
-### Day 73: March 14, 2018 
+<a name="day57"></a>
+### Day 57: September 20, 2018  
 
 **Today's Progress**: 
 
@@ -1378,8 +1399,8 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day74"></a>
-### Day 74: March 15, 2018 
+<a name="day58"></a>
+### Day 58: September 21, 2018 
 
 **Today's Progress**: 
 
@@ -1389,8 +1410,8 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day75"></a>
-### Day 75: March 16, 2018 
+<a name="day59"></a>
+### Day 59: September 24, 2018 
 
 **Today's Progress**: 
 
@@ -1400,8 +1421,8 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day76"></a>
-### Day 76: March 17, 2018 
+<a name="day60"></a>
+### Day 60: September 25, 2018 
 
 **Today's Progress**:
 
@@ -1411,8 +1432,8 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day77"></a>
-### Day 77: March 18, 2018 
+<a name="day61"></a>
+### Day 61: September 26, 2018 
 
 **Today's Progress**:  
 
@@ -1422,8 +1443,8 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day79"></a>
-### Day 79: March 20, 2018 
+<a name="day62"></a>
+### Day 62: September 27, 2018 
 
 **Today's Progress**: 
 
@@ -1433,8 +1454,10 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day80"></a>
-### Day 80: March 21, 2018 
+<a name="day63"></a>
+### Day 63: September 28, 2018 
+
+:tada: FINAL DAY! :tada:
 
 **Today's Progress**: 
 
@@ -1444,218 +1467,3 @@ RGSOC has given us a lot and I feel incredibly privileged to have the program's 
 ***
 [Back to Top](#top) 
 
-<a name="day81"></a>
-### Day 81: March 22, 2018 
-
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**:  
-***
-[Back to Top](#top) 
-
-<a name="day82"></a>
-### Day 82: March 23, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day83"></a>
-### Day 83: March 24, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day84"></a>
-### Day 84: March 25, 2018 
-
-**Today's Progress**: 
-
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day85"></a>
-### Day 85: March 26, 2018 
-
-**Today's Progress**: 
-
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day86"></a>
-### Day 86: March 27, 2018 
-
-**Today's Progress**:
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day87"></a>
-### Day 87: March 28, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day88"></a>
-### Day 88: March 29, 2018 
-
-**Today's Progress**: 
-
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day89"></a>
-### Day 89: March 30, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day90"></a>
-### Day 90: March 31, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day91"></a>
-### Day 91: Aril 1, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day92"></a>
-### Day 92: April 2, 2018 
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day93"></a>
-### Day 93: April 3, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day94"></a>
-### Day 94: April 4, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day95"></a>
-### Day 95: April 5, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day96"></a>
-### Day 96: April 6, 2018 
-
-**Today's Progress**: 
-
-**Thoughts**
-
-***
-[Back to Top](#top) 
-
-<a name="day97"></a>
-### Day 97: April 7, 2018 
-
-**Today's Progress**: 
-
-***
-[Back to Top](#top) 
-
-<a name="day98"></a>
-### Day 98: April 8, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-***
-[Back to Top](#top) 
-
-<a name="day99"></a>
-### Day 99: April 9, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
-
-<a name="day100"></a>
-### Day 100: April 10, 2018 
-
-**Today's Progress**: 
-
-**Thoughts** 
-**Link(s) to work**: 
-***
-[Back to Top](#top) 
