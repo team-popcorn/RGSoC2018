@@ -37,7 +37,7 @@
 | [Day 50](#day50)    |Red hot Curry Popcorn                      | [Day 51](#day51)    |Blue beautiful Chicken Popcorn  |
 | [Day 52](#day52)    |Blue jovial Pizza Popcorn                  | [Day 53](#day53)    |Green moist eggs Popcorn  |
 | [Day 54](#day54)    |Stubborn Yellow Tiramisu Popcorn| [Agile Meeting 10](#agile10)    | Agile Meeeting #10|
-| [Day 55](#day55)    | | [Day 56](#day56)    |  |
+| [Day 55](#day55)    |Primeval Turquoise Pasta Popcorn| [Day 56](#day56)    |  |
 | [Day 57](#day57)    | | [Day 58](#day58)    |  |
 | [Day 59](#day59)    | | [Agile Meeting 11](#agile11)    | Agile Meeeting #11|
 | [Day 61](#day61)    | | [Day 62](#day62)    |  |
@@ -1370,10 +1370,11 @@ It was really nice to have a chat with App Maintainer again--it has been too lon
 ### Day 55: September 18, 2018 
 
 **Today's Progress**: 
+- Jessica: Worked on the avatar management preview and options menu.
+- Arati: Two merges in one day! Admittedly one was just a tiny little fix but that's still a record for me.
 
-**Thoughts** 
-
-**Link(s) to work**:  
+**Thoughts**
+It's great having App Maintainer and Jessica on riot to ask for help from or just to shoot the breeze with.
 ***
 [Back to Top](#top) 
 
