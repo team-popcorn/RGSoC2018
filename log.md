@@ -1393,10 +1393,17 @@ Asking detailed questions helps keep a good coding flow going.
 ### Day 57: September 20, 2018  
 
 **Today's Progress**: 
+- Worked through adding the preview screen to Avatar management, the html is there so now it is a matter of styling and adding in the functions for the menu
+- Looked at the cdav, which is now been added but is not yet complete, started to understand how it worked and how to implement it
 
-**Thoughts** 
+**Thoughts**
+Today was a little slower in coding and I spent more time reading through the App maintainers code to see how to use. I also encountered some buggy parts when trying to implement the preview screen where I had to rerun make watch-js to get the updated version working.
 
 **Link(s) to work**: 
+Preview Screen: https://github.com/nextcloud/contacts/tree/vue-avatar-management-preview
+CDAV : https://github.com/nextcloud/contacts/pull/632/files
+https://github.com/nextcloud/cdav-library/blob/develop/src/models/addressBook.js
+
 ***
 [Back to Top](#top) 
 
