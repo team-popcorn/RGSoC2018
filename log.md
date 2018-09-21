@@ -38,7 +38,7 @@
 | [Day 52](#day52)    |Blue jovial Pizza Popcorn                  | [Day 53](#day53)    |Green moist eggs Popcorn  |
 | [Day 54](#day54)    |Stubborn Yellow Tiramisu Popcorn| [Agile Meeting 10](#agile10)    | Agile Meeeting #10|
 | [Day 55](#day55)    |Primeval Turquoise Pasta Popcorn| [Day 56](#day56)    |Delicious Turquoise Hummus Popcorn|
-| [Day 57](#day57)    | | [Day 58](#day58)    |  |
+| [Day 57](#day57)    |Green Sweet and Sour Pineapple Popcorn| [Day 58](#day58)    |  |
 | [Day 59](#day59)    | | [Agile Meeting 11](#agile11)    | Agile Meeeting #11|
 | [Day 61](#day61)    | | [Day 62](#day62)    |  |
 | [Day 63](#day63)    | | Mission complete! (*thoughts & future plans)        
@@ -1411,10 +1411,11 @@ https://github.com/nextcloud/cdav-library/blob/develop/src/models/addressBook.js
 ### Day 58: September 21, 2018 
 
 **Today's Progress**: 
+- Jessica: Worked on webdav for popover menu in settings and made PR for avatars in list.
+- Arati: microscopic PR for a tooltip related issue--it's really interesting taking a closer look at how the components for the contact details properties have been built.
 
-**Thoughts** 
-
-**Link(s) to work**:  
+**Thoughts**
+We had another great meeting with App Maintainer where we primarily discussed cdav lib and caramel!  
 ***
 [Back to Top](#top) 
 
