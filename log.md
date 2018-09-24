@@ -1423,10 +1423,13 @@ We had another great meeting with App Maintainer where we primarily discussed cd
 ### Day 59: September 24, 2018 
 
 **Today's Progress**: 
+-Arati worked on the propertz hint tooltip-adding to the icon not the component
+-Jessica worked on putting together slides for our end of RGSoC presentation
+- We had our last team meeting and presented our retrospective of what we have achieved and thanked those who had helped us :)
 
 **Thoughts** 
+It was great to have the chance to thank all those involved and go through what we have achieved in the last 3 months!
 
-**Link(s) to work**:  
 ***
 [Back to Top](#top) 
 
