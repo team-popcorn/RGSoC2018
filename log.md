@@ -1423,7 +1423,7 @@ We had another great meeting with App Maintainer where we primarily discussed cd
 ### Day 59: September 24, 2018 
 
 **Today's Progress**: 
--Arati worked on the propertz hint tooltip-adding to the icon not the component
+-Arati worked on the property hint tooltip-adding to the icon not the component
 -Jessica worked on putting together slides for our end of RGSoC presentation
 - We had our last team meeting and presented our retrospective of what we have achieved and thanked those who had helped us :)
 
@@ -1436,11 +1436,17 @@ It was great to have the chance to thank all those involved and go through what 
 <a name="day60"></a>
 ### Day 60: September 25, 2018 
 
-**Today's Progress**:
+**Today's Progress**: 
+- We split what we were pair programming on into two as Jessica is ill and didn't want to infect Arati while also saving her voice. Therefore Arati is working on the methods for the Avatar management and Jessica is working on the styling.
+- Jessica also worked on the avatars in list and made quick changes on her cdav branch for the addressbook settings popover menu
 
-**Thoughts**
+**Thoughts** 
+Nice to go over how to approach an issue together even if we didn't then code together. Hoping my head is clearer tomorrow and my throat is better!
 
-**Link(s) to work**: 
+**Links to work**
+https://github.com/nextcloud/contacts/pull/639
+https://github.com/nextcloud/contacts/pull/641
+https://github.com/nextcloud/contacts/tree/vue-avatar-management 
 ***
 [Back to Top](#top) 
 
