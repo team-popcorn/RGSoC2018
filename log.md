@@ -1453,11 +1453,15 @@ https://github.com/nextcloud/contacts/tree/vue-avatar-management
 <a name="day61"></a>
 ### Day 61: September 26, 2018 
 
-**Today's Progress**:  
+**Today's Progress**:
+- we both worked on the Avatar management and made good lee way on it
+- we had a super knowledge share session with our coach Markus (see our notes [here](https://github.com/team-popcorn/RGSoC2018/blob/master/testing-knowledge-share.md))
 
-**Thoughts** 
+**Thoughts**
+Was really awesome to go through testing with Markus and have a better understanding of how it works and how to implement it in our workflow.
 
 **Link(s) to work**: 
+https://github.com/nextcloud/contacts/tree/vue-avatar-management
 ***
 [Back to Top](#top) 
 
