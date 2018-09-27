@@ -8,3 +8,11 @@ Follow us on Twitter @TeamPopcornBer
 
 https://railsgirlssummerofcode.org/
 https://nextcloud.com/
+
+We have created a database of resources on Air Table:
+
+https://tinyurl.com/RGSoC18-resource-base
+
+Submit resources here:
+
+https://tinyurl.com/RGSoC18-submit-resource

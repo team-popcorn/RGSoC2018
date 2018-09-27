@@ -1,15 +1,17 @@
 [Arati](https://github.com/suntala) and [Jessica](https://github.com/sleepypioneer) will be working on the [Contacts app](https://github.com/nextcloud/contacts) as Team Popcorn during RailsGirls Summer of Code :tada: :popcorn:
 
 - **Team updates** on the [team blog](https://teams.railsgirlssummerofcode.org/teams/801) and [Twitter account](https://twitter.com/TeamPopcornBer)
-- **Weekly call** TBC Berlin time (CEST) via [Nextcloud video calls](https://cloud.nextcloud.com/call/nrkt) – make sure you have good internet connection ;)
+- **Weekly call** Tuesdays at 5:30pm Berlin time (CEST) via [Nextcloud video calls](https://cloud.nextcloud.com/call/nrkt) – make sure you have good internet connection ;)
 - **Communication** *Riot* - #TeamPopcorn *Email* - jessica0greene@gmail.com, 1aratirana@gmail.com 
 - **Supervisor:** Neta Gonen
 - **Coaches:** [Camila](https://github.com/camilasan), [Markus](https://github.com/axlwaii) & [Kaja](https://github.com/kajatiger)
-- **Mentor:** [Jan](https://github.com/jancborchardt)
+- **Mentor:** [Jan](https://github.com/jancborchardt), [Jona](https://github.com/jonatoni)
 - **Calendar** https://sleepypioneer.portknox.net/apps/calendar/
+- **Project kanban** https://github.com/orgs/nextcloud/projects/11
+- **Retro board** https://funretro.github.io/distributed/#933a9d08-728a-40e1-827a-b0446e864ba2
 - **Schedule:** 
   * Mondays - rotation (*see notes below*)
-  * Tuesday - Lora 
+  * Tuesday - Lora (17:30 Weekly meeting with Neta)
   * Wednesday - Markus
   * Thursday - Kaja & Victor 
   * Friday - Camila
