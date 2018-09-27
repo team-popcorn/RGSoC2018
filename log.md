@@ -1468,11 +1468,15 @@ https://github.com/nextcloud/contacts/tree/vue-avatar-management
 <a name="day62"></a>
 ### Day 62: September 27, 2018 
 
-**Today's Progress**: 
+**Today's Progress**:
+- we both continued a little on the Avatar management.. almost done :tada:
+- we had an amazing knowledge share session with our coach Camila (see her notes [here](https://github.com/camilasan/make-popcorn))
 
-**Thoughts** 
+**Thoughts**
+Camila & Jos came today and brought us actual popcorn :heart: we then had our workshop and chatted with Jan about companies and organisation. It felt like it brought the summer full circle as we started at Jos & Camila's place installing Nextcloud, getting set up to be able to contribute. An incredible day to mark the second to last day of summer of code.
 
-**Link(s) to work**:  
+![Popcorn!](/img/popcorn.jpg)
+
 ***
 [Back to Top](#top) 
 
