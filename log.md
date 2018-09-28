@@ -40,7 +40,10 @@
 | [Day 55](#day55)    |Primeval Turquoise Pasta Popcorn           | [Day 56](#day56)    |Delicious Turquoise Hummus Popcorn|
 | [Day 57](#day57)    |Green Sweet and Sour Pineapple Popcorn     | [Day 58](#day58)|Harmonious Indigo Pomegranate Popcorn|
 | [Day 59](#day59)    |Majestic Magenta Mooncake Popcorn          | [Agile Meeting 11](#agile11)    | Agile Meeeting #11  |
-| [Day 60](#day60)    |Boisterous Brown Bagel Popcorn             | [Day 61](#day61)    |Lustrous Lavender Lemonade Popcorn  | [Day 62](#day62)    |Clear Camel Cookies Popcorn                | [Day 63](#day63)    |Vivacious Kinetic Violet Ketchup Popcorn | Mission complete! (*thoughts & future plans)        
+| [Day 60](#day60)    |Boisterous Brown Bagel Popcorn             | [Day 61](#day61)  |Lustrous Lavender Lemonade Popcorn | 
+| [Day 62](#day62)    |Clear Camel Cookies Popcorn                | [Day 63](#day63)    |Vivacious Kinetic Violet Ketchup Popcorn | 
+
+Mission complete! (*thoughts & future plans)        
 
 <a name="day1"></a>
 ### Day 1: July 2, 2018 
