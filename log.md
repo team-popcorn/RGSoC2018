@@ -1484,11 +1484,26 @@ Camila & Jos came today and brought us actual popcorn :heart: we then had our wo
 
 :tada: FINAL DAY! :tada:
 
-**Today's Progress**: 
+**Today's Progress:**
 
-**Thoughts** 
+- We finished the avatar management branch and merged it
+- We had a call with App Maintainer John to make sure everything was ready for the Beta Release
+- We listed what was missing in this release and therefore what is needed for the next one
+- App maintainer John will make the Beta release for Contacts  🎉 🎉 🎉
+- We made our final log entries
+- We cleaned the laptops Absolventa had loaned us ready for being returned
+- Said our final goodbyes to the team here 😊
 
-**Link(s) to work**: 
+**Thoughts:**
+
+It's the end of the Summer of Code and what a rollercoaster it has been! We have both learnt so much and had so much support from the whole team. We are both excited to take this next step and see what comes next while knowing we will keep this experience close to our hearts for a long time to come 💚.
+
+We want to extend a huge thanks to all our coaches, App Maintainer John, our supervisor, our coaching company Absolventa, the Nextcloud community (especially Jos, Jan, Xheni, and Jona) and also to each other. We didn't know one another before applying for the summer of code and it has been great getting to know each other, learn from one another and create together 😊.
+
+Congratulations to all the other teams for completing their summers of code also we are so happy to be part of the community with you all! 🎉
+
+**Link:**
+See our work here: https://github.com/nextcloud/contacts 
 ***
 [Back to Top](#top) 
 
